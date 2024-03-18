@@ -1,345 +1,345 @@
-residence,program,rating,residence_Claudette Millar Hall (CMH),residence_Columbia Lake Village South (CLV-South),residence_Mackenzie King Village (MKV),residence_Ron Eydt Village (REV),residence_UW Place (UWP),residence_Village 1,extraversion,agreeableness,conscientiousness,emotionalStability,Openness
-UW Place (UWP),Engineering,7.0,0,0,0,0,1,0,5.5,4.0,6.0,4.0,5.5
-Ron Eydt Village (REV),Engineering,10.0,0,0,0,1,0,0,7.0,4.0,6.0,3.5,5.5
-Ron Eydt Village (REV),Engineering,10.0,0,0,0,1,0,0,4.5,5.0,6.0,6.0,5.0
-Ron Eydt Village (REV),Engineering,6.0,0,0,0,1,0,0,4.0,5.5,3.5,5.5,3.5
-Village 1,Engineering,6.0,0,0,0,0,0,1,5.0,5.0,1.5,4.0,6.5
-Village 1,Mathematics,9.0,0,0,0,0,0,1,5.0,5.5,6.0,6.0,4.0
-Ron Eydt Village (REV),Mathematics,8.0,0,0,0,1,0,0,6.0,4.5,5.0,4.5,5.0
-UW Place (UWP),Mathematics,7.0,0,0,0,0,1,0,3.5,6.5,6.5,6.5,5.5
-Village 1,Engineering,10.0,0,0,0,0,0,1,3.5,6.0,6.5,6.0,6.0
-UW Place (UWP),Engineering,7.0,0,0,0,0,1,0,3.0,4.5,5.5,3.0,4.0
-Ron Eydt Village (REV),Engineering,4.0,0,0,0,1,0,0,1.5,3.5,7.0,6.0,4.5
-UW Place (UWP),Engineering,6.0,0,0,0,0,1,0,5.5,3.5,6.0,5.5,5.0
-Ron Eydt Village (REV),Mathematics,7.0,0,0,0,1,0,0,3.0,5.0,6.5,3.5,5.0
-UW Place (UWP),Mathematics,5.0,0,0,0,0,1,0,1.5,2.5,5.0,5.5,5.0
-UW Place (UWP),Mathematics,7.0,0,0,0,0,1,0,2.5,4.0,4.0,4.5,5.0
-UW Place (UWP),Environment,7.0,0,0,0,0,1,0,4.5,6.5,3.5,2.5,4.0
-UW Place (UWP),Mathematics,7.0,0,0,0,0,1,0,4.5,4.0,3.0,4.0,4.0
-Village 1,Mathematics,8.0,0,0,0,0,0,1,1.0,6.5,6.0,4.0,4.0
-UW Place (UWP),Engineering,8.0,0,0,0,0,1,0,2.5,6.5,4.0,6.0,5.0
-Village 1,Mathematics,2.0,0,0,0,0,0,1,3.0,3.0,7.0,7.0,5.0
-Ron Eydt Village (REV),Mathematics,5.0,0,0,0,1,0,0,2.0,5.0,4.0,4.0,3.5
-Mackenzie King Village (MKV),Engineering,7.0,0,0,1,0,0,0,2.5,6.5,5.5,6.0,4.5
-UW Place (UWP),Engineering,5.0,0,0,0,0,1,0,3.0,5.0,4.5,4.5,4.5
-Village 1,Health,7.0,0,0,0,0,0,1,5.5,4.5,6.5,4.5,6.0
-Ron Eydt Village (REV),Health,7.0,0,0,0,1,0,0,4.0,4.0,6.5,5.0,5.0
-Ron Eydt Village (REV),Arts,8.0,0,0,0,1,0,0,6.0,6.0,5.5,4.0,6.0
-UW Place (UWP),Engineering,8.0,0,0,0,0,1,0,1.5,4.0,3.5,5.5,2.5
-Village 1,Mathematics,7.0,0,0,0,0,0,1,6.0,5.0,6.5,6.0,5.5
-UW Place (UWP),Mathematics,8.0,0,0,0,0,1,0,3.5,3.0,4.5,6.5,3.5
-Village 1,Health,8.0,0,0,0,0,0,1,3.5,4.5,4.0,6.0,6.5
-UW Place (UWP),Engineering,8.0,0,0,0,0,1,0,2.5,4.5,5.0,5.5,3.5
-Village 1,Mathematics,8.0,0,0,0,0,0,1,4.0,5.0,3.0,6.5,3.5
-UW Place (UWP),Engineering,3.0,0,0,0,0,1,0,3.0,6.0,4.5,5.0,6.5
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,4.5,4.5,7.0,4.5,4.5
-Ron Eydt Village (REV),Engineering,6.0,0,0,0,1,0,0,4.0,6.5,6.0,6.0,6.0
-Village 1,Engineering,8.0,0,0,0,0,0,1,3.5,6.0,6.0,4.0,5.0
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,1.0,3.0,3.0,3.5,3.0
-Mackenzie King Village (MKV),Mathematics,8.0,0,0,1,0,0,0,1.0,6.0,6.5,7.0,5.0
-Ron Eydt Village (REV),Mathematics,8.0,0,0,0,1,0,0,4.0,4.0,1.5,4.5,4.0
-Mackenzie King Village (MKV),Mathematics,8.0,0,0,1,0,0,0,5.5,5.0,5.5,5.0,4.5
-Mackenzie King Village (MKV),Mathematics,7.0,0,0,1,0,0,0,2.0,3.0,6.5,5.0,3.0
-Village 1,Mathematics,7.0,0,0,0,0,0,1,6.0,4.0,6.0,6.0,3.5
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,1.5,4.5,6.0,4.5,4.5
-Claudette Millar Hall (CMH),Mathematics,8.0,1,0,0,0,0,0,2.5,5.0,6.0,4.5,3.0
-Village 1,Mathematics,3.0,0,0,0,0,0,1,2.0,5.5,3.0,4.0,3.5
-UW Place (UWP),Mathematics,9.0,0,0,0,0,1,0,3.5,6.0,6.0,4.5,4.5
-UW Place (UWP),Mathematics,10.0,0,0,0,0,1,0,7.0,4.0,6.0,5.0,6.0
-Village 1,Mathematics,4.0,0,0,0,0,0,1,3.0,4.0,3.0,5.0,3.5
-Ron Eydt Village (REV),Science,4.0,0,0,0,1,0,0,2.0,4.5,4.5,4.5,3.0
-Ron Eydt Village (REV),Mathematics,8.0,0,0,0,1,0,0,5.5,5.0,3.0,3.0,4.5
-UW Place (UWP),Mathematics,8.0,0,0,0,0,1,0,3.0,5.5,6.0,6.0,4.5
-Village 1,Science,3.0,0,0,0,0,0,1,2.5,2.5,6.0,3.0,4.0
-Mackenzie King Village (MKV),Engineering,7.0,0,0,1,0,0,0,3.5,6.5,5.5,2.0,3.5
-Ron Eydt Village (REV),Arts,5.0,0,0,0,1,0,0,5.5,3.5,5.0,2.0,6.5
-Village 1,Engineering,7.0,0,0,0,0,0,1,3.5,3.5,6.0,6.0,3.5
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,1.5,4.5,2.0,6.5,6.0
-Mackenzie King Village (MKV),Health,8.0,0,0,1,0,0,0,4.0,5.5,2.0,3.0,6.0
-Village 1,Engineering,10.0,0,0,0,0,0,1,3.5,6.0,6.5,6.0,6.0
-Mackenzie King Village (MKV),Engineering,7.0,0,0,1,0,0,0,4.5,6.5,6.5,2.5,7.0
-Village 1,Arts,8.0,0,0,0,0,0,1,3.0,4.5,6.5,2.5,3.0
-Village 1,Engineering,7.0,0,0,0,0,0,1,2.0,6.0,7.0,4.5,2.5
-UW Place (UWP),Arts,6.0,0,0,0,0,1,0,3.0,4.0,6.0,1.5,2.5
-Village 1,Arts,8.0,0,0,0,0,0,1,1.5,5.0,3.5,4.5,4.5
-UW Place (UWP),Engineering,10.0,0,0,0,0,1,0,3.5,4.0,5.0,4.5,3.5
-Ron Eydt Village (REV),Engineering,3.0,0,0,0,1,0,0,7.0,3.0,6.0,6.0,4.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,6.0,4.5,4.0,6.0,6.0
-UW Place (UWP),Engineering,6.0,0,0,0,0,1,0,6.0,4.5,5.0,5.5,5.5
-Village 1,Arts,4.0,0,0,0,0,0,1,2.5,6.0,6.0,4.5,5.0
-Ron Eydt Village (REV),Science,6.0,0,0,0,1,0,0,3.0,5.0,6.0,4.0,5.5
-Mackenzie King Village (MKV),Engineering,8.0,0,0,1,0,0,0,2.0,2.5,4.0,1.5,6.0
-Ron Eydt Village (REV),Engineering,5.0,0,0,0,1,0,0,5.5,5.0,6.0,6.5,5.0
-Claudette Millar Hall (CMH),Engineering,3.0,1,0,0,0,0,0,1.0,5.0,6.5,1.0,4.5
-Ron Eydt Village (REV),Mathematics,8.0,0,0,0,1,0,0,6.5,5.0,6.0,4.5,5.5
-Village 1,Engineering,5.0,0,0,0,0,0,1,3.0,4.5,3.5,5.5,4.5
-UW Place (UWP),Science,5.0,0,0,0,0,1,0,2.0,4.0,3.0,5.5,3.0
-Ron Eydt Village (REV),Engineering,7.0,0,0,0,1,0,0,3.0,4.0,5.5,5.0,4.5
-UW Place (UWP),Mathematics,6.0,0,0,0,0,1,0,3.5,5.0,6.5,6.5,5.0
-Ron Eydt Village (REV),Engineering,1.0,0,0,0,1,0,0,1.5,5.5,2.5,3.0,3.5
-Ron Eydt Village (REV),Science,5.0,0,0,0,1,0,0,3.0,4.5,6.0,2.0,4.5
-Ron Eydt Village (REV),Arts,7.0,0,0,0,1,0,0,2.5,7.0,5.5,2.5,5.5
-Village 1,Science,8.0,0,0,0,0,0,1,4.5,5.0,3.0,3.5,5.0
-UW Place (UWP),Mathematics,5.0,0,0,0,0,1,0,3.5,6.0,4.0,6.0,5.0
-UW Place (UWP),Engineering,8.0,0,0,0,0,1,0,4.0,5.5,7.0,5.0,6.0
-Ron Eydt Village (REV),Mathematics,7.0,0,0,0,1,0,0,3.0,4.0,5.0,5.5,4.0
-Village 1,Engineering,3.0,0,0,0,0,0,1,2.0,4.0,6.0,4.0,4.5
-Columbia Lake Village South (CLV-South),Mathematics,7.0,0,1,0,0,0,0,4.5,3.5,5.5,6.0,5.0
-Claudette Millar Hall (CMH),Science,10.0,1,0,0,0,0,0,5.0,6.5,2.5,6.0,6.0
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,5.5,3.0,5.5,6.0,3.5
-UW Place (UWP),Science,5.0,0,0,0,0,1,0,6.5,4.5,4.0,1.0,3.5
-Mackenzie King Village (MKV),Mathematics,9.0,0,0,1,0,0,0,6.0,4.5,5.0,5.0,3.0
-UW Place (UWP),Mathematics,7.0,0,0,0,0,1,0,3.5,3.5,6.0,3.5,3.5
-Village 1,Science,8.0,0,0,0,0,0,1,3.0,5.0,2.5,3.5,5.5
-Village 1,Arts,1.0,0,0,0,0,0,1,4.0,4.0,4.0,4.0,4.0
-Ron Eydt Village (REV),Mathematics,4.0,0,0,0,1,0,0,4.5,6.0,3.0,4.5,5.5
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,5.0,4.0,4.0,6.0,4.5
-Village 1,Mathematics,10.0,0,0,0,0,0,1,2.0,5.0,3.5,4.0,5.0
-Village 1,Mathematics,8.0,0,0,0,0,0,1,2.0,5.5,6.0,3.5,3.0
-UW Place (UWP),Mathematics,9.0,0,0,0,0,1,0,3.0,5.0,4.5,4.0,5.0
-UW Place (UWP),Engineering,4.0,0,0,0,0,1,0,4.0,5.0,3.5,5.0,5.5
-UW Place (UWP),Mathematics,7.0,0,0,0,0,1,0,3.0,6.0,3.5,3.5,5.0
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,3.5,5.0,5.0,5.5,6.0
-UW Place (UWP),Science,6.0,0,0,0,0,1,0,5.0,6.5,6.5,4.5,6.5
-UW Place (UWP),Engineering,7.0,0,0,0,0,1,0,4.0,3.5,3.5,4.5,4.5
-Village 1,Arts,3.0,0,0,0,0,0,1,5.0,3.5,6.0,4.5,6.0
-Village 1,Health,2.0,0,0,0,0,0,1,6.5,3.5,7.0,5.0,6.5
-Village 1,Mathematics,5.0,0,0,0,0,0,1,4.0,2.0,5.0,4.5,5.0
-Village 1,Engineering,4.0,0,0,0,0,0,1,5.0,3.0,5.5,3.5,5.5
-Village 1,Arts,1.0,0,0,0,0,0,1,3.0,3.0,4.0,4.0,3.0
-Village 1,Engineering,2.0,0,0,0,0,0,1,2.0,2.0,3.0,3.0,2.0
-Village 1,Environment,3.0,0,0,0,0,0,1,1.5,1.5,4.0,4.0,1.5
-Village 1,Arts,8.0,0,0,0,0,0,1,5.5,2.5,4.0,4.0,5.5
-Village 1,Environment,2.0,0,0,0,0,0,1,3.5,3.0,3.0,4.0,3.5
-Village 1,Health,4.0,0,0,0,0,0,1,2.5,2.5,3.5,3.5,2.5
-Village 1,Engineering,9.0,0,0,0,0,0,1,5.0,3.0,4.0,4.0,5.0
-Village 1,Mathematics,4.0,0,0,0,0,0,1,2.5,2.5,4.0,4.0,3.0
-Village 1,Mathematics,3.0,0,0,0,0,0,1,2.5,2.5,3.5,4.5,1.5
-Village 1,Environment,10.0,0,0,0,0,0,1,6.0,2.0,4.0,4.5,6.5
-Village 1,Health,10.0,0,0,0,0,0,1,5.5,2.0,4.0,4.0,6.0
-Village 1,Science,4.0,0,0,0,0,0,1,2.5,2.5,4.0,3.5,3.0
-Village 1,AFM,3.0,0,0,0,0,0,1,3.0,3.0,4.5,3.5,2.5
-Village 1,Arts,4.0,0,0,0,0,0,1,2.5,3.0,4.0,4.5,2.5
-Village 1,Mathematics,7.0,0,0,0,0,0,1,6.5,1.5,5.0,4.0,6.5
-Village 1,Science,8.0,0,0,0,0,0,1,6.0,2.5,4.0,4.0,5.5
-Village 1,Health,4.0,0,0,0,0,0,1,2.5,3.0,4.0,4.0,2.5
-Village 1,Arts,8.0,0,0,0,0,0,1,5.5,2.5,4.0,4.0,5.5
-Village 1,Arts,7.0,0,0,0,0,0,1,6.0,2.0,3.5,4.5,6.0
-Village 1,Science,3.0,0,0,0,0,0,1,3.0,2.5,3.5,4.0,2.5
-Village 1,Environment,9.0,0,0,0,0,0,1,6.0,2.0,5.0,4.0,5.0
-Village 1,Arts,1.0,0,0,0,0,0,1,2.0,2.5,4.0,4.5,1.5
-Village 1,Environment,7.0,0,0,0,0,0,1,6.0,2.0,4.0,4.0,6.0
-Village 1,Engineering,4.0,0,0,0,0,0,1,2.5,2.5,3.5,3.5,2.0
-Village 1,Health,10.0,0,0,0,0,0,1,6.5,2.0,4.5,4.0,5.5
-Ron Eydt Village (REV),Health,7.0,0,0,0,1,0,0,5.5,2.5,3.5,4.0,5.0
-Ron Eydt Village (REV),Science,9.0,0,0,0,1,0,0,6.0,1.5,4.0,4.0,6.0
-Village 1,Science,9.0,0,0,0,0,0,1,5.5,2.0,4.0,4.0,6.5
-Village 1,Health,2.0,0,0,0,0,0,1,1.0,1.0,4.0,4.0,1.0
-Ron Eydt Village (REV),Arts,8.0,0,0,0,1,0,0,6.5,1.5,4.0,4.0,7.0
-Ron Eydt Village (REV),Environment,10.0,0,0,0,1,0,0,7.0,1.0,4.0,4.0,6.5
-Village 1,Mathematics,4.0,0,0,0,0,0,1,2.0,2.5,4.0,4.5,2.5
-Village 1,Science,3.0,0,0,0,0,0,1,3.5,2.5,3.5,4.5,3.0
-Ron Eydt Village (REV),Health,8.0,0,0,0,1,0,0,5.5,2.0,4.0,4.0,6.0
-Ron Eydt Village (REV),Science,8.0,0,0,0,1,0,0,6.5,2.0,3.5,3.5,6.5
-Village 1,Science,3.0,0,0,0,0,0,1,2.5,3.0,4.0,4.0,2.0
-Village 1,Arts,8.0,0,0,0,0,0,1,6.0,2.5,4.5,4.0,6.0
-Ron Eydt Village (REV),Health,9.0,0,0,0,1,0,0,6.5,1.0,4.0,4.5,6.5
-Ron Eydt Village (REV),Science,7.0,0,0,0,1,0,0,6.0,1.5,4.0,4.0,6.0
-Ron Eydt Village (REV),Arts,10.0,0,0,0,1,0,0,6.0,2.0,3.5,4.0,6.0
-Village 1,Environment,3.0,0,0,0,0,0,1,2.5,2.5,4.0,4.0,2.5
-Village 1,Arts,4.0,0,0,0,0,0,1,2.0,2.5,4.0,4.5,1.5
-Village 1,Environment,9.0,0,0,0,0,0,1,4.5,2.5,4.5,4.0,4.5
-Ron Eydt Village (REV),Arts,8.0,0,0,0,1,0,0,7.0,6.0,3.0,4.0,6.0
-Village 1,Health,7.0,0,0,0,0,0,1,5.5,2.5,3.5,4.5,6.0
-Village 1,Science,10.0,0,0,0,0,0,1,6.0,2.0,4.0,4.0,6.0
-Ron Eydt Village (REV),Environment,8.0,0,0,0,1,0,0,6.5,6.0,3.0,4.0,6.0
-Ron Eydt Village (REV),Environment,10.0,0,0,0,1,0,0,5.0,7.0,2.0,4.0,6.0
-Village 1,Arts,9.0,0,0,0,0,0,1,5.5,2.0,4.0,4.0,6.0
-Ron Eydt Village (REV),Science,8.0,0,0,0,1,0,0,6.5,7.0,3.0,4.0,6.0
-Ron Eydt Village (REV),Arts,4.0,0,0,0,1,0,0,6.0,6.0,3.5,4.0,5.0
-Ron Eydt Village (REV),Science,10.0,0,0,0,1,0,0,7.0,6.5,3.0,4.0,6.0
-Claudette Millar Hall (CMH),Engineering,7.0,1,0,0,0,0,0,5.0,5.0,5.0,4.0,4.0
-Ron Eydt Village (REV),Engineering,3.0,0,0,0,1,0,0,4.0,5.0,4.0,3.5,3.5
-Ron Eydt Village (REV),Arts,9.0,0,0,0,1,0,0,6.5,6.0,2.0,4.0,6.5
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,5.5,5.5,6.0,4.0,5.0
-Ron Eydt Village (REV),Environment,3.0,0,0,0,1,0,0,6.5,6.5,4.0,4.0,5.0
-Ron Eydt Village (REV),Environment,10.0,0,0,0,1,0,0,6.5,7.0,2.5,4.0,5.5
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,6.5,6.5,5.0,4.0,3.5
-Ron Eydt Village (REV),Health,3.0,0,0,0,1,0,0,6.0,6.0,4.0,4.0,5.5
-Ron Eydt Village (REV),Health,8.0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.0
-Ron Eydt Village (REV),Mathematics,3.0,0,0,0,1,0,0,6.0,6.5,3.5,3.5,6.0
-Ron Eydt Village (REV),Science,10.0,0,0,0,1,0,0,6.5,6.5,3.0,3.0,6.5
-Claudette Millar Hall (CMH),Engineering,10.0,1,0,0,0,0,0,5.5,5.0,5.5,4.0,4.0
-Ron Eydt Village (REV),Arts,9.0,0,0,0,1,0,0,6.5,6.5,2.5,4.0,6.0
-Ron Eydt Village (REV),Mathematics,4.0,0,0,0,1,0,0,6.0,6.0,3.5,4.0,5.5
-Ron Eydt Village (REV),Arts,10.0,0,0,0,1,0,0,4.5,4.5,2.0,4.5,5.0
-Ron Eydt Village (REV),Mathematics,3.0,0,0,0,1,0,0,6.0,6.5,3.5,4.0,5.5
-Claudette Millar Hall (CMH),Engineering,7.0,1,0,0,0,0,0,5.0,5.0,5.0,4.0,3.5
-Ron Eydt Village (REV),Engineering,10.0,0,0,0,1,0,0,6.0,6.5,3.0,4.0,6.0
-Ron Eydt Village (REV),Science,4.0,0,0,0,1,0,0,6.0,6.0,4.0,4.0,6.0
-Ron Eydt Village (REV),Mathematics,9.0,0,0,0,1,0,0,6.5,6.5,2.5,3.5,6.0
-Ron Eydt Village (REV),Health,9.0,0,0,0,1,0,0,7.0,6.5,3.0,4.0,6.0
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,6.0,5.0,5.0,4.0,3.0
-Ron Eydt Village (REV),AFM,2.0,0,0,0,1,0,0,6.0,6.0,3.0,4.0,6.0
-Ron Eydt Village (REV),Mathematics,7.0,0,0,0,1,0,0,6.0,6.0,3.0,4.0,6.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,5.5,5.5,5.0,4.0,4.0
-Ron Eydt Village (REV),Arts,3.0,0,0,0,1,0,0,6.0,6.5,2.5,4.0,6.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,5.5,6.0,5.0,4.0,5.0
-Ron Eydt Village (REV),Health,3.0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.0
-Mackenzie King Village (MKV),Arts,8.0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
-Claudette Millar Hall (CMH),Engineering,7.0,1,0,0,0,0,0,6.0,5.0,5.0,4.0,4.5
-Claudette Millar Hall (CMH),Arts,5.0,1,0,0,0,0,0,3.0,3.0,4.0,3.0,3.5
-Mackenzie King Village (MKV),Engineering,4.0,0,0,1,0,0,0,2.0,2.0,4.0,4.0,4.0
-Ron Eydt Village (REV),Health,3.0,0,0,0,1,0,0,6.0,6.0,1.5,4.0,6.0
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,5.0,6.0,5.0,4.0,4.0
-Mackenzie King Village (MKV),Environment,9.0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
-Ron Eydt Village (REV),Science,3.0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.0
-Mackenzie King Village (MKV),Health,10.0,0,0,1,0,0,0,4.0,7.0,7.0,4.0,4.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,5.0,5.0,5.0,4.0,4.0
-Mackenzie King Village (MKV),Mathematics,9.0,0,0,1,0,0,0,4.0,6.5,6.0,4.0,4.0
-Ron Eydt Village (REV),Health,3.0,0,0,0,1,0,0,6.0,6.0,3.0,4.0,5.0
-Claudette Millar Hall (CMH),Environment,4.0,1,0,0,0,0,0,3.5,2.5,4.0,3.0,3.5
-Mackenzie King Village (MKV),Mathematics,9.0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,5.5,6.0,6.0,4.5,4.0
-Ron Eydt Village (REV),Science,4.0,0,0,0,1,0,0,6.0,6.0,3.0,4.0,5.5
-Mackenzie King Village (MKV),Science,10.0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
-Claudette Millar Hall (CMH),Environment,1.0,1,0,0,0,0,0,1.0,1.0,4.0,1.0,2.5
-Claudette Millar Hall (CMH),Engineering,10.0,1,0,0,0,0,0,5.0,5.0,5.0,4.0,4.0
-Ron Eydt Village (REV),Arts,1.0,0,0,0,1,0,0,7.0,7.0,1.0,4.0,7.0
-Mackenzie King Village (MKV),Mathematics,9.0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
-Claudette Millar Hall (CMH),Arts,1.0,1,0,0,0,0,0,1.0,1.0,4.0,1.0,2.5
-Mackenzie King Village (MKV),Mathematics,10.0,0,0,1,0,0,0,3.5,4.0,5.0,4.0,2.5
-Ron Eydt Village (REV),Engineering,3.0,0,0,0,1,0,0,6.0,6.0,3.0,4.0,5.0
-Claudette Millar Hall (CMH),Science,1.0,1,0,0,0,0,0,1.0,1.0,4.0,1.0,2.5
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,6.0,6.0,5.5,4.0,4.5
-Claudette Millar Hall (CMH),Health,2.0,1,0,0,0,0,0,2.0,2.0,4.0,2.0,3.0
-Ron Eydt Village (REV),Health,2.0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,5.5
-Claudette Millar Hall (CMH),Engineering,8.0,1,0,0,0,0,0,5.5,5.0,5.0,4.0,4.0
-Claudette Millar Hall (CMH),Science,2.0,1,0,0,0,0,0,1.5,2.0,4.0,2.0,3.0
-Mackenzie King Village (MKV),Science,10.0,0,0,1,0,0,0,4.0,7.0,6.0,4.0,4.0
-Ron Eydt Village (REV),Environment,3.0,0,0,0,1,0,0,4.0,6.5,3.0,4.0,6.0
-Claudette Millar Hall (CMH),Arts,2.0,1,0,0,0,0,0,1.5,1.5,4.0,1.5,3.0
-Mackenzie King Village (MKV),Mathematics,9.0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,5.5,6.0,5.5,4.5,3.5
-Ron Eydt Village (REV),Engineering,3.0,0,0,0,1,0,0,6.0,6.0,3.5,4.0,6.0
-Claudette Millar Hall (CMH),Arts,2.0,1,0,0,0,0,0,2.0,1.5,4.0,1.5,3.0
-Claudette Millar Hall (CMH),Arts,3.0,1,0,0,0,0,0,2.5,2.5,4.0,2.0,3.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,5.5,5.0,5.0,4.0,4.0
-Mackenzie King Village (MKV),Science,10.0,0,0,1,0,0,0,3.5,6.5,6.5,4.0,4.0
-Ron Eydt Village (REV),Mathematics,3.0,0,0,0,1,0,0,6.0,6.0,2.5,4.5,5.0
-Claudette Millar Hall (CMH),Health,2.0,1,0,0,0,0,0,2.0,1.0,4.0,2.0,3.0
-Claudette Millar Hall (CMH),Health,2.0,1,0,0,0,0,0,2.0,2.0,4.0,2.0,3.0
-Claudette Millar Hall (CMH),Engineering,10.0,1,0,0,0,0,0,5.5,5.5,5.5,3.5,3.5
-Mackenzie King Village (MKV),Science,9.0,0,0,1,0,0,0,4.5,4.5,4.0,3.0,3.0
-Ron Eydt Village (REV),AFM,3.0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.0
-Claudette Millar Hall (CMH),Health,3.0,1,0,0,0,0,0,2.5,2.5,4.0,3.0,3.0
-Ron Eydt Village (REV),Arts,4.0,0,0,0,1,0,0,6.5,6.0,3.0,4.0,5.5
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,6.5,6.5,5.5,4.5,3.5
-Mackenzie King Village (MKV),Mathematics,10.0,0,0,1,0,0,0,3.5,6.0,5.5,4.0,4.0
-Claudette Millar Hall (CMH),Environment,5.0,1,0,0,0,0,0,3.0,3.0,4.0,3.0,3.5
-Ron Eydt Village (REV),Science,3.0,0,0,0,1,0,0,6.0,6.0,3.5,4.0,5.5
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,5.5,5.0,5.0,4.5,4.0
-Mackenzie King Village (MKV),Mathematics,9.0,0,0,1,0,0,0,4.0,6.0,5.5,4.0,4.0
-Claudette Millar Hall (CMH),Arts,4.0,1,0,0,0,0,0,2.5,2.0,4.0,2.5,3.0
-Mackenzie King Village (MKV),Science,8.0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
-Ron Eydt Village (REV),Science,4.0,0,0,0,1,0,0,6.5,6.0,3.0,4.0,5.5
-Claudette Millar Hall (CMH),Arts,4.0,1,0,0,0,0,0,2.5,2.0,4.0,2.0,3.0
-Mackenzie King Village (MKV),Mathematics,10.0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
-Mackenzie King Village (MKV),Science,10.0,0,0,1,0,0,0,4.0,6.0,5.5,4.5,4.5
-Ron Eydt Village (REV),Environment,3.0,0,0,0,1,0,0,6.0,6.0,3.0,4.0,6.0
-Ron Eydt Village (REV),Mathematics,3.0,0,0,0,1,0,0,6.0,6.0,3.0,4.0,6.5
-Mackenzie King Village (MKV),Science,10.0,0,0,1,0,0,0,4.0,6.0,5.5,4.0,4.0
-Mackenzie King Village (MKV),Science,10.0,0,0,1,0,0,0,4.5,6.5,6.5,4.0,4.0
-Ron Eydt Village (REV),Health,4.0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.5
-Claudette Millar Hall (CMH),Health,2.0,1,0,0,0,0,0,2.5,2.5,4.0,3.0,3.0
-Ron Eydt Village (REV),Engineering,3.0,0,0,0,1,0,0,6.0,6.5,3.0,4.0,6.0
-Claudette Millar Hall (CMH),Arts,1.0,1,0,0,0,0,0,1.5,1.5,4.0,1.0,3.0
-Claudette Millar Hall (CMH),Environment,2.0,1,0,0,0,0,0,1.5,1.5,4.0,1.5,3.0
-Ron Eydt Village (REV),Mathematics,3.0,0,0,0,1,0,0,6.5,6.5,2.0,4.0,6.0
-Mackenzie King Village (MKV),Science,10.0,0,0,1,0,0,0,3.5,6.5,6.0,4.0,4.0
-Claudette Millar Hall (CMH),Science,2.0,1,0,0,0,0,0,2.0,1.5,4.0,2.0,3.0
-Ron Eydt Village (REV),Health,4.0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.0
-Claudette Millar Hall (CMH),Environment,5.0,1,0,0,0,0,0,3.0,3.0,4.0,3.0,3.5
-Claudette Millar Hall (CMH),Arts,5.0,1,0,0,0,0,0,3.0,3.0,4.0,3.0,3.5
-Ron Eydt Village (REV),Mathematics,4.0,0,0,0,1,0,0,6.0,6.0,1.5,4.0,5.5
-Claudette Millar Hall (CMH),Engineering,7.0,1,0,0,0,0,0,5.5,5.0,5.0,4.0,4.0
-Ron Eydt Village (REV),Science,3.0,0,0,0,1,0,0,6.0,6.5,2.0,4.0,5.5
-Claudette Millar Hall (CMH),Health,2.0,1,0,0,0,0,0,1.5,1.0,4.0,2.0,2.5
-Claudette Millar Hall (CMH),Mathematics,1.0,1,0,0,0,0,0,1.0,1.0,4.0,1.0,2.5
-Ron Eydt Village (REV),Engineering,9.0,0,0,0,1,0,0,3.5,6.0,4.5,4.5,6.0
-UW Place (UWP),Environment,9.0,0,0,0,0,1,0,4.0,6.0,4.0,3.5,6.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,6.5,6.0,6.5,4.0,4.0
-UW Place (UWP),Health,10.0,0,0,0,0,1,0,3.5,7.0,4.5,4.5,7.0
-UW Place (UWP),Science,9.0,0,0,0,0,1,0,4.0,6.0,4.0,4.0,5.5
-UW Place (UWP),Arts,9.0,0,0,0,0,1,0,4.0,6.0,4.0,3.5,6.0
-UW Place (UWP),Arts,10.0,0,0,0,0,1,0,4.0,6.0,4.0,3.5,6.0
-UW Place (UWP),Engineering,9.0,0,0,0,0,1,0,4.5,5.5,4.0,3.5,6.0
-UW Place (UWP),Environment,10.0,0,0,0,0,1,0,4.5,5.5,4.0,4.5,6.5
-Claudette Millar Hall (CMH),Engineering,10.0,1,0,0,0,0,0,6.0,6.0,6.0,3.5,4.5
-UW Place (UWP),Health,9.0,0,0,0,0,1,0,4.5,5.5,4.0,4.0,6.5
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,6.5,7.0,6.0,4.0,4.0
-UW Place (UWP),Mathematics,10.0,0,0,0,0,1,0,4.0,6.5,4.5,4.0,6.5
-UW Place (UWP),AFM,9.0,0,0,0,0,1,0,4.0,6.0,4.5,4.5,6.0
-Claudette Millar Hall (CMH),Engineering,10.0,1,0,0,0,0,0,6.0,6.0,5.5,4.0,4.0
-Mackenzie King Village (MKV),Arts,10.0,0,0,1,0,0,0,6.0,3.0,4.0,5.0,2.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,7.0,7.0,7.0,4.0,4.0
-UW Place (UWP),Science,7.0,0,0,0,0,1,0,3.0,6.0,4.0,3.0,5.5
-Mackenzie King Village (MKV),Engineering,2.0,0,0,1,0,0,0,6.5,1.5,4.0,4.0,2.0
-UW Place (UWP),Health,9.0,0,0,0,0,1,0,4.0,6.0,4.5,4.0,7.0
-Mackenzie King Village (MKV),Environment,2.0,0,0,1,0,0,0,6.0,2.5,4.0,4.0,1.5
-Claudette Millar Hall (CMH),Engineering,10.0,1,0,0,0,0,0,6.0,6.0,6.0,3.0,3.0
-Mackenzie King Village (MKV),Environment,2.0,0,0,1,0,0,0,6.0,2.0,4.0,4.0,2.0
-Claudette Millar Hall (CMH),Engineering,10.0,1,0,0,0,0,0,6.0,6.0,6.0,4.0,4.0
-Mackenzie King Village (MKV),Health,2.0,0,0,1,0,0,0,6.5,1.5,4.0,4.0,1.5
-Mackenzie King Village (MKV),Health,2.0,0,0,1,0,0,0,6.0,2.5,4.0,4.0,2.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,6.0,6.5,6.0,4.0,3.5
-Mackenzie King Village (MKV),Mathematics,1.0,0,0,1,0,0,0,6.5,2.0,4.0,4.0,1.5
-Mackenzie King Village (MKV),Science,1.0,0,0,1,0,0,0,6.0,2.0,4.0,4.0,2.0
-Mackenzie King Village (MKV),Science,1.0,0,0,1,0,0,0,6.5,1.5,4.0,4.0,1.5
-UW Place (UWP),Science,9.0,0,0,0,0,1,0,3.5,6.0,4.0,4.0,5.5
-Mackenzie King Village (MKV),Science,3.0,0,0,1,0,0,0,6.0,1.5,4.0,4.0,1.5
-UW Place (UWP),Science,9.0,0,0,0,0,1,0,4.0,6.0,4.5,3.0,6.0
-UW Place (UWP),Mathematics,8.0,0,0,0,0,1,0,2.5,4.5,5.5,4.5,5.0
-Claudette Millar Hall (CMH),Engineering,9.0,1,0,0,0,0,0,5.0,4.0,4.5,5.0,4.5
-Mackenzie King Village (MKV),Science,2.0,0,0,1,0,0,0,6.0,3.0,4.0,5.0,3.0
-Mackenzie King Village (MKV),Science,2.0,0,0,1,0,0,0,6.5,2.5,4.0,5.0,2.0
-UW Place (UWP),Science,4.0,0,0,0,0,1,0,4.0,2.0,4.5,4.0,2.5
-Mackenzie King Village (MKV),Arts,1.0,0,0,1,0,0,0,6.5,1.5,4.0,4.0,2.0
-UW Place (UWP),Environment,3.0,0,0,0,0,1,0,3.5,2.0,4.5,4.5,2.0
-UW Place (UWP),Engineering,4.0,0,0,0,0,1,0,4.0,2.0,4.0,4.0,3.0
-Mackenzie King Village (MKV),Engineering,1.0,0,0,1,0,0,0,6.0,1.5,4.0,4.0,1.5
-UW Place (UWP),Environment,3.0,0,0,0,0,1,0,3.5,1.5,3.5,4.5,2.0
-Mackenzie King Village (MKV),Health,2.0,0,0,1,0,0,0,6.0,2.5,4.0,4.0,2.0
-UW Place (UWP),Arts,2.0,0,0,0,0,1,0,4.0,1.0,4.5,4.0,2.5
-Mackenzie King Village (MKV),Health,2.0,0,0,1,0,0,0,5.5,2.5,4.0,4.0,2.0
-UW Place (UWP),Mathematics,3.0,0,0,0,0,1,0,4.0,2.0,4.5,5.0,2.0
-UW Place (UWP),Health,1.0,0,0,0,0,1,0,4.5,1.5,4.0,4.0,2.0
-Mackenzie King Village (MKV),Health,1.0,0,0,1,0,0,0,5.5,2.5,4.0,4.0,2.0
-UW Place (UWP),Engineering,3.0,0,0,0,0,1,0,4.5,1.5,4.0,4.0,2.5
-UW Place (UWP),Science,3.0,0,0,0,0,1,0,3.5,4.0,4.5,4.5,6.5
-Mackenzie King Village (MKV),Arts,3.0,0,0,1,0,0,0,6.5,1.5,3.5,4.0,2.5
-UW Place (UWP),Science,2.0,0,0,0,0,1,0,3.0,1.0,3.5,3.5,1.5
-UW Place (UWP),Engineering,4.0,0,0,0,0,1,0,4.5,2.0,3.5,4.0,2.0
-UW Place (UWP),Health,2.0,0,0,0,0,1,0,3.5,3.5,4.5,5.5,3.5
-UW Place (UWP),Engineering,3.0,0,0,0,0,1,0,4.0,2.0,4.0,4.0,2.5
-UW Place (UWP),Mathematics,1.0,0,0,0,0,1,0,4.0,1.0,4.0,4.0,1.0
-UW Place (UWP),Environment,2.0,0,0,0,0,1,0,3.5,1.5,4.0,4.5,2.5
-UW Place (UWP),Arts,2.0,0,0,0,0,1,0,4.0,1.5,4.0,4.0,2.0
-UW Place (UWP),Arts,1.0,0,0,0,0,1,0,5.5,2.5,5.5,4.0,4.0
-UW Place (UWP),Engineering,1.0,0,0,0,0,1,0,4.0,1.5,4.5,4.5,2.0
-Claudette Millar Hall (CMH),Environment,3.0,1,0,0,0,0,0,5.0,2.0,4.0,4.0,3.0
-UW Place (UWP),Engineering,2.0,0,0,0,0,1,0,4.5,2.0,4.0,4.0,2.0
-UW Place (UWP),Arts,1.0,0,0,0,0,1,0,4.5,1.0,3.5,4.5,2.0
-UW Place (UWP),Engineering,2.0,0,0,0,0,1,0,3.5,1.5,4.0,4.0,2.0
-UW Place (UWP),Health,3.0,0,0,0,0,1,0,4.0,1.5,4.0,4.5,2.0
-UW Place (UWP),Science,1.0,0,0,0,0,1,0,4.5,1.5,4.5,3.5,2.5
-Village 1,Arts,2.0,0,0,0,0,0,1,4.0,4.5,2.0,4.5,5.0
-Mackenzie King Village (MKV),Arts,8.0,0,0,1,0,0,0,3.0,3.5,3.5,4.0,6.5
-Mackenzie King Village (MKV),Arts,9.0,0,0,1,0,0,0,2.5,3.0,4.5,4.0,6.5
-Mackenzie King Village (MKV),Science,5.0,0,0,1,0,0,0,2.5,4.0,4.5,4.5,4.5
-Village 1,Mathematics,3.0,0,0,0,0,0,1,2.5,4.5,3.0,4.5,4.0
-Mackenzie King Village (MKV),Arts,1.0,0,0,1,0,0,0,6.0,4.5,4.0,4.5,6.5
-Mackenzie King Village (MKV),Science,3.0,0,0,1,0,0,0,6.0,4.0,2.5,4.5,7.0
-Village 1,Arts,1.0,0,0,0,0,0,1,1.5,4.0,3.5,4.5,5.0
-Mackenzie King Village (MKV),Science,1.0,0,0,1,0,0,0,7.0,4.5,4.5,4.0,5.5
-Mackenzie King Village (MKV),Arts,2.0,0,0,1,0,0,0,6.0,4.0,5.5,3.5,6.5
+program,residence,rating,residence_Claudette Millar Hall (CMH),residence_Columbia Lake Village South (CLV-South),residence_Mackenzie King Village (MKV),residence_Ron Eydt Village (REV),residence_UW Place (UWP),residence_Village 1,program_AFM,program_Arts,program_Engineering,program_Environment,program_Health,program_Mathematics,program_Science,extraversion,agreeableness,conscientiousness,emotionalStability,Openness
+Engineering,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,1,0,0,0,0,5.5,4.0,6.0,4.0,5.5
+Engineering,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,0,1,0,0,0,0,7.0,4.0,6.0,3.5,5.5
+Engineering,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,0,1,0,0,0,0,4.5,5.0,6.0,6.0,5.0
+Engineering,Ron Eydt Village (REV),6.0,0,0,0,1,0,0,0,0,1,0,0,0,0,4.0,5.5,3.5,5.5,3.5
+Engineering,Village 1,6.0,0,0,0,0,0,1,0,0,1,0,0,0,0,5.0,5.0,1.5,4.0,6.5
+Mathematics,Village 1,9.0,0,0,0,0,0,1,0,0,0,0,0,1,0,5.0,5.5,6.0,6.0,4.0
+Mathematics,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.0,4.5,5.0,4.5,5.0
+Mathematics,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.5,6.5,6.5,6.5,5.5
+Engineering,Village 1,10.0,0,0,0,0,0,1,0,0,1,0,0,0,0,3.5,6.0,6.5,6.0,6.0
+Engineering,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,1,0,0,0,0,3.0,4.5,5.5,3.0,4.0
+Engineering,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1.5,3.5,7.0,6.0,4.5
+Engineering,UW Place (UWP),6.0,0,0,0,0,1,0,0,0,1,0,0,0,0,5.5,3.5,6.0,5.5,5.0
+Mathematics,Ron Eydt Village (REV),7.0,0,0,0,1,0,0,0,0,0,0,0,1,0,3.0,5.0,6.5,3.5,5.0
+Mathematics,UW Place (UWP),5.0,0,0,0,0,1,0,0,0,0,0,0,1,0,1.5,2.5,5.0,5.5,5.0
+Mathematics,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,0,0,0,1,0,2.5,4.0,4.0,4.5,5.0
+Environment,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,0,1,0,0,0,4.5,6.5,3.5,2.5,4.0
+Mathematics,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,0,0,0,1,0,4.5,4.0,3.0,4.0,4.0
+Mathematics,Village 1,8.0,0,0,0,0,0,1,0,0,0,0,0,1,0,1.0,6.5,6.0,4.0,4.0
+Engineering,UW Place (UWP),8.0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.5,6.5,4.0,6.0,5.0
+Mathematics,Village 1,2.0,0,0,0,0,0,1,0,0,0,0,0,1,0,3.0,3.0,7.0,7.0,5.0
+Mathematics,Ron Eydt Village (REV),5.0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0,5.0,4.0,4.0,3.5
+Engineering,Mackenzie King Village (MKV),7.0,0,0,1,0,0,0,0,0,1,0,0,0,0,2.5,6.5,5.5,6.0,4.5
+Engineering,UW Place (UWP),5.0,0,0,0,0,1,0,0,0,1,0,0,0,0,3.0,5.0,4.5,4.5,4.5
+Health,Village 1,7.0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.5,4.5,6.5,4.5,6.0
+Health,Ron Eydt Village (REV),7.0,0,0,0,1,0,0,0,0,0,0,1,0,0,4.0,4.0,6.5,5.0,5.0
+Arts,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.0,6.0,5.5,4.0,6.0
+Engineering,UW Place (UWP),8.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.5,4.0,3.5,5.5,2.5
+Mathematics,Village 1,7.0,0,0,0,0,0,1,0,0,0,0,0,1,0,6.0,5.0,6.5,6.0,5.5
+Mathematics,UW Place (UWP),8.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.5,3.0,4.5,6.5,3.5
+Health,Village 1,8.0,0,0,0,0,0,1,0,0,0,0,1,0,0,3.5,4.5,4.0,6.0,6.5
+Engineering,UW Place (UWP),8.0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.5,4.5,5.0,5.5,3.5
+Mathematics,Village 1,8.0,0,0,0,0,0,1,0,0,0,0,0,1,0,4.0,5.0,3.0,6.5,3.5
+Engineering,UW Place (UWP),3.0,0,0,0,0,1,0,0,0,1,0,0,0,0,3.0,6.0,4.5,5.0,6.5
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,4.5,4.5,7.0,4.5,4.5
+Engineering,Ron Eydt Village (REV),6.0,0,0,0,1,0,0,0,0,1,0,0,0,0,4.0,6.5,6.0,6.0,6.0
+Engineering,Village 1,8.0,0,0,0,0,0,1,0,0,1,0,0,0,0,3.5,6.0,6.0,4.0,5.0
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1.0,3.0,3.0,3.5,3.0
+Mathematics,Mackenzie King Village (MKV),8.0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0,6.0,6.5,7.0,5.0
+Mathematics,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,0,0,1,0,4.0,4.0,1.5,4.5,4.0
+Mathematics,Mackenzie King Village (MKV),8.0,0,0,1,0,0,0,0,0,0,0,0,1,0,5.5,5.0,5.5,5.0,4.5
+Mathematics,Mackenzie King Village (MKV),7.0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0,3.0,6.5,5.0,3.0
+Mathematics,Village 1,7.0,0,0,0,0,0,1,0,0,0,0,0,1,0,6.0,4.0,6.0,6.0,3.5
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1.5,4.5,6.0,4.5,4.5
+Mathematics,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,0,0,0,1,0,2.5,5.0,6.0,4.5,3.0
+Mathematics,Village 1,3.0,0,0,0,0,0,1,0,0,0,0,0,1,0,2.0,5.5,3.0,4.0,3.5
+Mathematics,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.5,6.0,6.0,4.5,4.5
+Mathematics,UW Place (UWP),10.0,0,0,0,0,1,0,0,0,0,0,0,1,0,7.0,4.0,6.0,5.0,6.0
+Mathematics,Village 1,4.0,0,0,0,0,0,1,0,0,0,0,0,1,0,3.0,4.0,3.0,5.0,3.5
+Science,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,0,0,1,2.0,4.5,4.5,4.5,3.0
+Mathematics,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,0,0,1,0,5.5,5.0,3.0,3.0,4.5
+Mathematics,UW Place (UWP),8.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.0,5.5,6.0,6.0,4.5
+Science,Village 1,3.0,0,0,0,0,0,1,0,0,0,0,0,0,1,2.5,2.5,6.0,3.0,4.0
+Engineering,Mackenzie King Village (MKV),7.0,0,0,1,0,0,0,0,0,1,0,0,0,0,3.5,6.5,5.5,2.0,3.5
+Arts,Ron Eydt Village (REV),5.0,0,0,0,1,0,0,0,1,0,0,0,0,0,5.5,3.5,5.0,2.0,6.5
+Engineering,Village 1,7.0,0,0,0,0,0,1,0,0,1,0,0,0,0,3.5,3.5,6.0,6.0,3.5
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1.5,4.5,2.0,6.5,6.0
+Health,Mackenzie King Village (MKV),8.0,0,0,1,0,0,0,0,0,0,0,1,0,0,4.0,5.5,2.0,3.0,6.0
+Engineering,Village 1,10.0,0,0,0,0,0,1,0,0,1,0,0,0,0,3.5,6.0,6.5,6.0,6.0
+Engineering,Mackenzie King Village (MKV),7.0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.5,6.5,6.5,2.5,7.0
+Arts,Village 1,8.0,0,0,0,0,0,1,0,1,0,0,0,0,0,3.0,4.5,6.5,2.5,3.0
+Engineering,Village 1,7.0,0,0,0,0,0,1,0,0,1,0,0,0,0,2.0,6.0,7.0,4.5,2.5
+Arts,UW Place (UWP),6.0,0,0,0,0,1,0,0,1,0,0,0,0,0,3.0,4.0,6.0,1.5,2.5
+Arts,Village 1,8.0,0,0,0,0,0,1,0,1,0,0,0,0,0,1.5,5.0,3.5,4.5,4.5
+Engineering,UW Place (UWP),10.0,0,0,0,0,1,0,0,0,1,0,0,0,0,3.5,4.0,5.0,4.5,3.5
+Engineering,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,1,0,0,0,0,7.0,3.0,6.0,6.0,4.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,4.5,4.0,6.0,6.0
+Engineering,UW Place (UWP),6.0,0,0,0,0,1,0,0,0,1,0,0,0,0,6.0,4.5,5.0,5.5,5.5
+Arts,Village 1,4.0,0,0,0,0,0,1,0,1,0,0,0,0,0,2.5,6.0,6.0,4.5,5.0
+Science,Ron Eydt Village (REV),6.0,0,0,0,1,0,0,0,0,0,0,0,0,1,3.0,5.0,6.0,4.0,5.5
+Engineering,Mackenzie King Village (MKV),8.0,0,0,1,0,0,0,0,0,1,0,0,0,0,2.0,2.5,4.0,1.5,6.0
+Engineering,Ron Eydt Village (REV),5.0,0,0,0,1,0,0,0,0,1,0,0,0,0,5.5,5.0,6.0,6.5,5.0
+Engineering,Claudette Millar Hall (CMH),3.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1.0,5.0,6.5,1.0,4.5
+Mathematics,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.5,5.0,6.0,4.5,5.5
+Engineering,Village 1,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,3.0,4.5,3.5,5.5,4.5
+Science,UW Place (UWP),5.0,0,0,0,0,1,0,0,0,0,0,0,0,1,2.0,4.0,3.0,5.5,3.0
+Engineering,Ron Eydt Village (REV),7.0,0,0,0,1,0,0,0,0,1,0,0,0,0,3.0,4.0,5.5,5.0,4.5
+Mathematics,UW Place (UWP),6.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.5,5.0,6.5,6.5,5.0
+Engineering,Ron Eydt Village (REV),1.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1.5,5.5,2.5,3.0,3.5
+Science,Ron Eydt Village (REV),5.0,0,0,0,1,0,0,0,0,0,0,0,0,1,3.0,4.5,6.0,2.0,4.5
+Arts,Ron Eydt Village (REV),7.0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.5,7.0,5.5,2.5,5.5
+Science,Village 1,8.0,0,0,0,0,0,1,0,0,0,0,0,0,1,4.5,5.0,3.0,3.5,5.0
+Mathematics,UW Place (UWP),5.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.5,6.0,4.0,6.0,5.0
+Engineering,UW Place (UWP),8.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.0,5.5,7.0,5.0,6.0
+Mathematics,Ron Eydt Village (REV),7.0,0,0,0,1,0,0,0,0,0,0,0,1,0,3.0,4.0,5.0,5.5,4.0
+Engineering,Village 1,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,2.0,4.0,6.0,4.0,4.5
+Mathematics,Columbia Lake Village South (CLV-South),7.0,0,1,0,0,0,0,0,0,0,0,0,1,0,4.5,3.5,5.5,6.0,5.0
+Science,Claudette Millar Hall (CMH),10.0,1,0,0,0,0,0,0,0,0,0,0,0,1,5.0,6.5,2.5,6.0,6.0
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,3.0,5.5,6.0,3.5
+Science,UW Place (UWP),5.0,0,0,0,0,1,0,0,0,0,0,0,0,1,6.5,4.5,4.0,1.0,3.5
+Mathematics,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,0,0,0,0,1,0,6.0,4.5,5.0,5.0,3.0
+Mathematics,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.5,3.5,6.0,3.5,3.5
+Science,Village 1,8.0,0,0,0,0,0,1,0,0,0,0,0,0,1,3.0,5.0,2.5,3.5,5.5
+Arts,Village 1,1.0,0,0,0,0,0,1,0,1,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0
+Mathematics,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,0,1,0,4.5,6.0,3.0,4.5,5.5
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.0,4.0,4.0,6.0,4.5
+Mathematics,Village 1,10.0,0,0,0,0,0,1,0,0,0,0,0,1,0,2.0,5.0,3.5,4.0,5.0
+Mathematics,Village 1,8.0,0,0,0,0,0,1,0,0,0,0,0,1,0,2.0,5.5,6.0,3.5,3.0
+Mathematics,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.0,5.0,4.5,4.0,5.0
+Engineering,UW Place (UWP),4.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.0,5.0,3.5,5.0,5.5
+Mathematics,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,0,0,0,1,0,3.0,6.0,3.5,3.5,5.0
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,3.5,5.0,5.0,5.5,6.0
+Science,UW Place (UWP),6.0,0,0,0,0,1,0,0,0,0,0,0,0,1,5.0,6.5,6.5,4.5,6.5
+Engineering,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.0,3.5,3.5,4.5,4.5
+Arts,Village 1,3.0,0,0,0,0,0,1,0,1,0,0,0,0,0,5.0,3.5,6.0,4.5,6.0
+Health,Village 1,2.0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.5,3.5,7.0,5.0,6.5
+Mathematics,Village 1,5.0,0,0,0,0,0,1,0,0,0,0,0,1,0,4.0,2.0,5.0,4.5,5.0
+Engineering,Village 1,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,5.0,3.0,5.5,3.5,5.5
+Arts,Village 1,1.0,0,0,0,0,0,1,0,1,0,0,0,0,0,3.0,3.0,4.0,4.0,3.0
+Engineering,Village 1,2.0,0,0,0,0,0,1,0,0,1,0,0,0,0,2.0,2.0,3.0,3.0,2.0
+Environment,Village 1,3.0,0,0,0,0,0,1,0,0,0,1,0,0,0,1.5,1.5,4.0,4.0,1.5
+Arts,Village 1,8.0,0,0,0,0,0,1,0,1,0,0,0,0,0,5.5,2.5,4.0,4.0,5.5
+Environment,Village 1,2.0,0,0,0,0,0,1,0,0,0,1,0,0,0,3.5,3.0,3.0,4.0,3.5
+Health,Village 1,4.0,0,0,0,0,0,1,0,0,0,0,1,0,0,2.5,2.5,3.5,3.5,2.5
+Engineering,Village 1,9.0,0,0,0,0,0,1,0,0,1,0,0,0,0,5.0,3.0,4.0,4.0,5.0
+Mathematics,Village 1,4.0,0,0,0,0,0,1,0,0,0,0,0,1,0,2.5,2.5,4.0,4.0,3.0
+Mathematics,Village 1,3.0,0,0,0,0,0,1,0,0,0,0,0,1,0,2.5,2.5,3.5,4.5,1.5
+Environment,Village 1,10.0,0,0,0,0,0,1,0,0,0,1,0,0,0,6.0,2.0,4.0,4.5,6.5
+Health,Village 1,10.0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.5,2.0,4.0,4.0,6.0
+Science,Village 1,4.0,0,0,0,0,0,1,0,0,0,0,0,0,1,2.5,2.5,4.0,3.5,3.0
+AFM,Village 1,3.0,0,0,0,0,0,1,1,0,0,0,0,0,0,3.0,3.0,4.5,3.5,2.5
+Arts,Village 1,4.0,0,0,0,0,0,1,0,1,0,0,0,0,0,2.5,3.0,4.0,4.5,2.5
+Mathematics,Village 1,7.0,0,0,0,0,0,1,0,0,0,0,0,1,0,6.5,1.5,5.0,4.0,6.5
+Science,Village 1,8.0,0,0,0,0,0,1,0,0,0,0,0,0,1,6.0,2.5,4.0,4.0,5.5
+Health,Village 1,4.0,0,0,0,0,0,1,0,0,0,0,1,0,0,2.5,3.0,4.0,4.0,2.5
+Arts,Village 1,8.0,0,0,0,0,0,1,0,1,0,0,0,0,0,5.5,2.5,4.0,4.0,5.5
+Arts,Village 1,7.0,0,0,0,0,0,1,0,1,0,0,0,0,0,6.0,2.0,3.5,4.5,6.0
+Science,Village 1,3.0,0,0,0,0,0,1,0,0,0,0,0,0,1,3.0,2.5,3.5,4.0,2.5
+Environment,Village 1,9.0,0,0,0,0,0,1,0,0,0,1,0,0,0,6.0,2.0,5.0,4.0,5.0
+Arts,Village 1,1.0,0,0,0,0,0,1,0,1,0,0,0,0,0,2.0,2.5,4.0,4.5,1.5
+Environment,Village 1,7.0,0,0,0,0,0,1,0,0,0,1,0,0,0,6.0,2.0,4.0,4.0,6.0
+Engineering,Village 1,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,2.5,2.5,3.5,3.5,2.0
+Health,Village 1,10.0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.5,2.0,4.5,4.0,5.5
+Health,Ron Eydt Village (REV),7.0,0,0,0,1,0,0,0,0,0,0,1,0,0,5.5,2.5,3.5,4.0,5.0
+Science,Ron Eydt Village (REV),9.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.0,1.5,4.0,4.0,6.0
+Science,Village 1,9.0,0,0,0,0,0,1,0,0,0,0,0,0,1,5.5,2.0,4.0,4.0,6.5
+Health,Village 1,2.0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0,1.0,4.0,4.0,1.0
+Arts,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.5,1.5,4.0,4.0,7.0
+Environment,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,0,0,1,0,0,0,7.0,1.0,4.0,4.0,6.5
+Mathematics,Village 1,4.0,0,0,0,0,0,1,0,0,0,0,0,1,0,2.0,2.5,4.0,4.5,2.5
+Science,Village 1,3.0,0,0,0,0,0,1,0,0,0,0,0,0,1,3.5,2.5,3.5,4.5,3.0
+Health,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,0,1,0,0,5.5,2.0,4.0,4.0,6.0
+Science,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.5,2.0,3.5,3.5,6.5
+Science,Village 1,3.0,0,0,0,0,0,1,0,0,0,0,0,0,1,2.5,3.0,4.0,4.0,2.0
+Arts,Village 1,8.0,0,0,0,0,0,1,0,1,0,0,0,0,0,6.0,2.5,4.5,4.0,6.0
+Health,Ron Eydt Village (REV),9.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.5,1.0,4.0,4.5,6.5
+Science,Ron Eydt Village (REV),7.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.0,1.5,4.0,4.0,6.0
+Arts,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.0,2.0,3.5,4.0,6.0
+Environment,Village 1,3.0,0,0,0,0,0,1,0,0,0,1,0,0,0,2.5,2.5,4.0,4.0,2.5
+Arts,Village 1,4.0,0,0,0,0,0,1,0,1,0,0,0,0,0,2.0,2.5,4.0,4.5,1.5
+Environment,Village 1,9.0,0,0,0,0,0,1,0,0,0,1,0,0,0,4.5,2.5,4.5,4.0,4.5
+Arts,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,1,0,0,0,0,0,7.0,6.0,3.0,4.0,6.0
+Health,Village 1,7.0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.5,2.5,3.5,4.5,6.0
+Science,Village 1,10.0,0,0,0,0,0,1,0,0,0,0,0,0,1,6.0,2.0,4.0,4.0,6.0
+Environment,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,1,0,0,0,6.5,6.0,3.0,4.0,6.0
+Environment,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,0,0,1,0,0,0,5.0,7.0,2.0,4.0,6.0
+Arts,Village 1,9.0,0,0,0,0,0,1,0,1,0,0,0,0,0,5.5,2.0,4.0,4.0,6.0
+Science,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.5,7.0,3.0,4.0,6.0
+Arts,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.0,6.0,3.5,4.0,5.0
+Science,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,0,0,0,0,0,1,7.0,6.5,3.0,4.0,6.0
+Engineering,Claudette Millar Hall (CMH),7.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.0,5.0,5.0,4.0,4.0
+Engineering,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,1,0,0,0,0,4.0,5.0,4.0,3.5,3.5
+Arts,Ron Eydt Village (REV),9.0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.5,6.0,2.0,4.0,6.5
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,5.5,6.0,4.0,5.0
+Environment,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,6.5,6.5,4.0,4.0,5.0
+Environment,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,0,0,1,0,0,0,6.5,7.0,2.5,4.0,5.5
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.5,6.5,5.0,4.0,3.5
+Health,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.0,6.0,4.0,4.0,5.5
+Health,Ron Eydt Village (REV),8.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.0
+Mathematics,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.0,6.5,3.5,3.5,6.0
+Science,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.5,6.5,3.0,3.0,6.5
+Engineering,Claudette Millar Hall (CMH),10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,5.0,5.5,4.0,4.0
+Arts,Ron Eydt Village (REV),9.0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.5,6.5,2.5,4.0,6.0
+Mathematics,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.0,6.0,3.5,4.0,5.5
+Arts,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,1,0,0,0,0,0,4.5,4.5,2.0,4.5,5.0
+Mathematics,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.0,6.5,3.5,4.0,5.5
+Engineering,Claudette Millar Hall (CMH),7.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.0,5.0,5.0,4.0,3.5
+Engineering,Ron Eydt Village (REV),10.0,0,0,0,1,0,0,0,0,1,0,0,0,0,6.0,6.5,3.0,4.0,6.0
+Science,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.0,6.0,4.0,4.0,6.0
+Mathematics,Ron Eydt Village (REV),9.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.5,6.5,2.5,3.5,6.0
+Health,Ron Eydt Village (REV),9.0,0,0,0,1,0,0,0,0,0,0,1,0,0,7.0,6.5,3.0,4.0,6.0
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,5.0,5.0,4.0,3.0
+AFM,Ron Eydt Village (REV),2.0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0,6.0,3.0,4.0,6.0
+Mathematics,Ron Eydt Village (REV),7.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.0,6.0,3.0,4.0,6.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,5.5,5.0,4.0,4.0
+Arts,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.0,6.5,2.5,4.0,6.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,6.0,5.0,4.0,5.0
+Health,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.0
+Arts,Mackenzie King Village (MKV),8.0,0,0,1,0,0,0,0,1,0,0,0,0,0,4.0,6.0,6.0,4.0,4.0
+Engineering,Claudette Millar Hall (CMH),7.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,5.0,5.0,4.0,4.5
+Arts,Claudette Millar Hall (CMH),5.0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.0,3.0,4.0,3.0,3.5
+Engineering,Mackenzie King Village (MKV),4.0,0,0,1,0,0,0,0,0,1,0,0,0,0,2.0,2.0,4.0,4.0,4.0
+Health,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.0,6.0,1.5,4.0,6.0
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.0,6.0,5.0,4.0,4.0
+Environment,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,0,0,1,0,0,0,4.0,6.0,6.0,4.0,4.0
+Science,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.0,6.0,2.5,4.0,6.0
+Health,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,1,0,0,4.0,7.0,7.0,4.0,4.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.0,5.0,5.0,4.0,4.0
+Mathematics,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0,6.5,6.0,4.0,4.0
+Health,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.0,6.0,3.0,4.0,5.0
+Environment,Claudette Millar Hall (CMH),4.0,1,0,0,0,0,0,0,0,0,1,0,0,0,3.5,2.5,4.0,3.0,3.5
+Mathematics,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0,6.0,6.0,4.0,4.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,6.0,6.0,4.5,4.0
+Science,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.0,6.0,3.0,4.0,5.5
+Science,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,0,1,4.0,6.0,6.0,4.0,4.0
+Environment,Claudette Millar Hall (CMH),1.0,1,0,0,0,0,0,0,0,0,1,0,0,0,1.0,1.0,4.0,1.0,2.5
+Engineering,Claudette Millar Hall (CMH),10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.0,5.0,5.0,4.0,4.0
+Arts,Ron Eydt Village (REV),1.0,0,0,0,1,0,0,0,1,0,0,0,0,0,7.0,7.0,1.0,4.0,7.0
+Mathematics,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0,6.0,6.0,4.0,4.0
+Arts,Claudette Millar Hall (CMH),1.0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.0,1.0,4.0,1.0,2.5
+Mathematics,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,1,0,3.5,4.0,5.0,4.0,2.5
+Engineering,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,1,0,0,0,0,6.0,6.0,3.0,4.0,5.0
+Science,Claudette Millar Hall (CMH),1.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1.0,1.0,4.0,1.0,2.5
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,6.0,5.5,4.0,4.5
+Health,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,0,0,0,1,0,0,2.0,2.0,4.0,2.0,3.0
+Health,Ron Eydt Village (REV),2.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,5.5
+Engineering,Claudette Millar Hall (CMH),8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,5.0,5.0,4.0,4.0
+Science,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1.5,2.0,4.0,2.0,3.0
+Science,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,0,1,4.0,7.0,6.0,4.0,4.0
+Environment,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,4.0,6.5,3.0,4.0,6.0
+Arts,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.5,1.5,4.0,1.5,3.0
+Mathematics,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0,6.0,6.0,4.0,4.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,6.0,5.5,4.5,3.5
+Engineering,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,1,0,0,0,0,6.0,6.0,3.5,4.0,6.0
+Arts,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.0,1.5,4.0,1.5,3.0
+Arts,Claudette Millar Hall (CMH),3.0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.5,2.5,4.0,2.0,3.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,5.0,5.0,4.0,4.0
+Science,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,0,1,3.5,6.5,6.5,4.0,4.0
+Mathematics,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.0,6.0,2.5,4.5,5.0
+Health,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,0,0,0,1,0,0,2.0,1.0,4.0,2.0,3.0
+Health,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,0,0,0,1,0,0,2.0,2.0,4.0,2.0,3.0
+Engineering,Claudette Millar Hall (CMH),10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,5.5,5.5,3.5,3.5
+Science,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,0,0,0,0,0,1,4.5,4.5,4.0,3.0,3.0
+AFM,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0,6.0,2.5,4.0,6.0
+Health,Claudette Millar Hall (CMH),3.0,1,0,0,0,0,0,0,0,0,0,1,0,0,2.5,2.5,4.0,3.0,3.0
+Arts,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.5,6.0,3.0,4.0,5.5
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.5,6.5,5.5,4.5,3.5
+Mathematics,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,1,0,3.5,6.0,5.5,4.0,4.0
+Environment,Claudette Millar Hall (CMH),5.0,1,0,0,0,0,0,0,0,0,1,0,0,0,3.0,3.0,4.0,3.0,3.5
+Science,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.0,6.0,3.5,4.0,5.5
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,5.0,5.0,4.5,4.0
+Mathematics,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0,6.0,5.5,4.0,4.0
+Arts,Claudette Millar Hall (CMH),4.0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.5,2.0,4.0,2.5,3.0
+Science,Mackenzie King Village (MKV),8.0,0,0,1,0,0,0,0,0,0,0,0,0,1,4.0,6.0,6.0,4.0,4.0
+Science,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.5,6.0,3.0,4.0,5.5
+Arts,Claudette Millar Hall (CMH),4.0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.5,2.0,4.0,2.0,3.0
+Mathematics,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0,6.0,6.0,4.0,4.0
+Science,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,0,1,4.0,6.0,5.5,4.5,4.5
+Environment,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,6.0,6.0,3.0,4.0,6.0
+Mathematics,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.0,6.0,3.0,4.0,6.5
+Science,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,0,1,4.0,6.0,5.5,4.0,4.0
+Science,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,0,1,4.5,6.5,6.5,4.0,4.0
+Health,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.5
+Health,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,0,0,0,1,0,0,2.5,2.5,4.0,3.0,3.0
+Engineering,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,1,0,0,0,0,6.0,6.5,3.0,4.0,6.0
+Arts,Claudette Millar Hall (CMH),1.0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.5,1.5,4.0,1.0,3.0
+Environment,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,0,0,1,0,0,0,1.5,1.5,4.0,1.5,3.0
+Mathematics,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.5,6.5,2.0,4.0,6.0
+Science,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,0,0,0,0,0,1,3.5,6.5,6.0,4.0,4.0
+Science,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,0,0,0,0,0,1,2.0,1.5,4.0,2.0,3.0
+Health,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,1,0,0,6.0,6.0,2.5,4.0,6.0
+Environment,Claudette Millar Hall (CMH),5.0,1,0,0,0,0,0,0,0,0,1,0,0,0,3.0,3.0,4.0,3.0,3.5
+Arts,Claudette Millar Hall (CMH),5.0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.0,3.0,4.0,3.0,3.5
+Mathematics,Ron Eydt Village (REV),4.0,0,0,0,1,0,0,0,0,0,0,0,1,0,6.0,6.0,1.5,4.0,5.5
+Engineering,Claudette Millar Hall (CMH),7.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.5,5.0,5.0,4.0,4.0
+Science,Ron Eydt Village (REV),3.0,0,0,0,1,0,0,0,0,0,0,0,0,1,6.0,6.5,2.0,4.0,5.5
+Health,Claudette Millar Hall (CMH),2.0,1,0,0,0,0,0,0,0,0,0,1,0,0,1.5,1.0,4.0,2.0,2.5
+Mathematics,Claudette Millar Hall (CMH),1.0,1,0,0,0,0,0,0,0,0,0,0,1,0,1.0,1.0,4.0,1.0,2.5
+Engineering,Ron Eydt Village (REV),9.0,0,0,0,1,0,0,0,0,1,0,0,0,0,3.5,6.0,4.5,4.5,6.0
+Environment,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,0,1,0,0,0,4.0,6.0,4.0,3.5,6.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.5,6.0,6.5,4.0,4.0
+Health,UW Place (UWP),10.0,0,0,0,0,1,0,0,0,0,0,1,0,0,3.5,7.0,4.5,4.5,7.0
+Science,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,0,0,0,0,1,4.0,6.0,4.0,4.0,5.5
+Arts,UW Place (UWP),9.0,0,0,0,0,1,0,0,1,0,0,0,0,0,4.0,6.0,4.0,3.5,6.0
+Arts,UW Place (UWP),10.0,0,0,0,0,1,0,0,1,0,0,0,0,0,4.0,6.0,4.0,3.5,6.0
+Engineering,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.5,5.5,4.0,3.5,6.0
+Environment,UW Place (UWP),10.0,0,0,0,0,1,0,0,0,0,1,0,0,0,4.5,5.5,4.0,4.5,6.5
+Engineering,Claudette Millar Hall (CMH),10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,6.0,6.0,3.5,4.5
+Health,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,0,0,1,0,0,4.5,5.5,4.0,4.0,6.5
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.5,7.0,6.0,4.0,4.0
+Mathematics,UW Place (UWP),10.0,0,0,0,0,1,0,0,0,0,0,0,1,0,4.0,6.5,4.5,4.0,6.5
+AFM,UW Place (UWP),9.0,0,0,0,0,1,0,1,0,0,0,0,0,0,4.0,6.0,4.5,4.5,6.0
+Engineering,Claudette Millar Hall (CMH),10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,6.0,5.5,4.0,4.0
+Arts,Mackenzie King Village (MKV),10.0,0,0,1,0,0,0,0,1,0,0,0,0,0,6.0,3.0,4.0,5.0,2.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,7.0,7.0,7.0,4.0,4.0
+Science,UW Place (UWP),7.0,0,0,0,0,1,0,0,0,0,0,0,0,1,3.0,6.0,4.0,3.0,5.5
+Engineering,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,1,0,0,0,0,6.5,1.5,4.0,4.0,2.0
+Health,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,0,0,1,0,0,4.0,6.0,4.5,4.0,7.0
+Environment,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,0,1,0,0,0,6.0,2.5,4.0,4.0,1.5
+Engineering,Claudette Millar Hall (CMH),10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,6.0,6.0,3.0,3.0
+Environment,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,0,1,0,0,0,6.0,2.0,4.0,4.0,2.0
+Engineering,Claudette Millar Hall (CMH),10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,6.0,6.0,4.0,4.0
+Health,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,0,0,1,0,0,6.5,1.5,4.0,4.0,1.5
+Health,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,0,0,1,0,0,6.0,2.5,4.0,4.0,2.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,6.0,6.5,6.0,4.0,3.5
+Mathematics,Mackenzie King Village (MKV),1.0,0,0,1,0,0,0,0,0,0,0,0,1,0,6.5,2.0,4.0,4.0,1.5
+Science,Mackenzie King Village (MKV),1.0,0,0,1,0,0,0,0,0,0,0,0,0,1,6.0,2.0,4.0,4.0,2.0
+Science,Mackenzie King Village (MKV),1.0,0,0,1,0,0,0,0,0,0,0,0,0,1,6.5,1.5,4.0,4.0,1.5
+Science,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,0,0,0,0,1,3.5,6.0,4.0,4.0,5.5
+Science,Mackenzie King Village (MKV),3.0,0,0,1,0,0,0,0,0,0,0,0,0,1,6.0,1.5,4.0,4.0,1.5
+Science,UW Place (UWP),9.0,0,0,0,0,1,0,0,0,0,0,0,0,1,4.0,6.0,4.5,3.0,6.0
+Mathematics,UW Place (UWP),8.0,0,0,0,0,1,0,0,0,0,0,0,1,0,2.5,4.5,5.5,4.5,5.0
+Engineering,Claudette Millar Hall (CMH),9.0,1,0,0,0,0,0,0,0,1,0,0,0,0,5.0,4.0,4.5,5.0,4.5
+Science,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,0,0,0,0,1,6.0,3.0,4.0,5.0,3.0
+Science,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,0,0,0,0,1,6.5,2.5,4.0,5.0,2.0
+Science,UW Place (UWP),4.0,0,0,0,0,1,0,0,0,0,0,0,0,1,4.0,2.0,4.5,4.0,2.5
+Arts,Mackenzie King Village (MKV),1.0,0,0,1,0,0,0,0,1,0,0,0,0,0,6.5,1.5,4.0,4.0,2.0
+Environment,UW Place (UWP),3.0,0,0,0,0,1,0,0,0,0,1,0,0,0,3.5,2.0,4.5,4.5,2.0
+Engineering,UW Place (UWP),4.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.0,2.0,4.0,4.0,3.0
+Engineering,Mackenzie King Village (MKV),1.0,0,0,1,0,0,0,0,0,1,0,0,0,0,6.0,1.5,4.0,4.0,1.5
+Environment,UW Place (UWP),3.0,0,0,0,0,1,0,0,0,0,1,0,0,0,3.5,1.5,3.5,4.5,2.0
+Health,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,0,0,1,0,0,6.0,2.5,4.0,4.0,2.0
+Arts,UW Place (UWP),2.0,0,0,0,0,1,0,0,1,0,0,0,0,0,4.0,1.0,4.5,4.0,2.5
+Health,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,0,0,0,1,0,0,5.5,2.5,4.0,4.0,2.0
+Mathematics,UW Place (UWP),3.0,0,0,0,0,1,0,0,0,0,0,0,1,0,4.0,2.0,4.5,5.0,2.0
+Health,UW Place (UWP),1.0,0,0,0,0,1,0,0,0,0,0,1,0,0,4.5,1.5,4.0,4.0,2.0
+Health,Mackenzie King Village (MKV),1.0,0,0,1,0,0,0,0,0,0,0,1,0,0,5.5,2.5,4.0,4.0,2.0
+Engineering,UW Place (UWP),3.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.5,1.5,4.0,4.0,2.5
+Science,UW Place (UWP),3.0,0,0,0,0,1,0,0,0,0,0,0,0,1,3.5,4.0,4.5,4.5,6.5
+Arts,Mackenzie King Village (MKV),3.0,0,0,1,0,0,0,0,1,0,0,0,0,0,6.5,1.5,3.5,4.0,2.5
+Science,UW Place (UWP),2.0,0,0,0,0,1,0,0,0,0,0,0,0,1,3.0,1.0,3.5,3.5,1.5
+Engineering,UW Place (UWP),4.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.5,2.0,3.5,4.0,2.0
+Health,UW Place (UWP),2.0,0,0,0,0,1,0,0,0,0,0,1,0,0,3.5,3.5,4.5,5.5,3.5
+Engineering,UW Place (UWP),3.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.0,2.0,4.0,4.0,2.5
+Mathematics,UW Place (UWP),1.0,0,0,0,0,1,0,0,0,0,0,0,1,0,4.0,1.0,4.0,4.0,1.0
+Environment,UW Place (UWP),2.0,0,0,0,0,1,0,0,0,0,1,0,0,0,3.5,1.5,4.0,4.5,2.5
+Arts,UW Place (UWP),2.0,0,0,0,0,1,0,0,1,0,0,0,0,0,4.0,1.5,4.0,4.0,2.0
+Arts,UW Place (UWP),1.0,0,0,0,0,1,0,0,1,0,0,0,0,0,5.5,2.5,5.5,4.0,4.0
+Engineering,UW Place (UWP),1.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.0,1.5,4.5,4.5,2.0
+Environment,Claudette Millar Hall (CMH),3.0,1,0,0,0,0,0,0,0,0,1,0,0,0,5.0,2.0,4.0,4.0,3.0
+Engineering,UW Place (UWP),2.0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.5,2.0,4.0,4.0,2.0
+Arts,UW Place (UWP),1.0,0,0,0,0,1,0,0,1,0,0,0,0,0,4.5,1.0,3.5,4.5,2.0
+Engineering,UW Place (UWP),2.0,0,0,0,0,1,0,0,0,1,0,0,0,0,3.5,1.5,4.0,4.0,2.0
+Health,UW Place (UWP),3.0,0,0,0,0,1,0,0,0,0,0,1,0,0,4.0,1.5,4.0,4.5,2.0
+Science,UW Place (UWP),1.0,0,0,0,0,1,0,0,0,0,0,0,0,1,4.5,1.5,4.5,3.5,2.5
+Arts,Village 1,2.0,0,0,0,0,0,1,0,1,0,0,0,0,0,4.0,4.5,2.0,4.5,5.0
+Arts,Mackenzie King Village (MKV),8.0,0,0,1,0,0,0,0,1,0,0,0,0,0,3.0,3.5,3.5,4.0,6.5
+Arts,Mackenzie King Village (MKV),9.0,0,0,1,0,0,0,0,1,0,0,0,0,0,2.5,3.0,4.5,4.0,6.5
+Science,Mackenzie King Village (MKV),5.0,0,0,1,0,0,0,0,0,0,0,0,0,1,2.5,4.0,4.5,4.5,4.5
+Mathematics,Village 1,3.0,0,0,0,0,0,1,0,0,0,0,0,1,0,2.5,4.5,3.0,4.5,4.0
+Arts,Mackenzie King Village (MKV),1.0,0,0,1,0,0,0,0,1,0,0,0,0,0,6.0,4.5,4.0,4.5,6.5
+Science,Mackenzie King Village (MKV),3.0,0,0,1,0,0,0,0,0,0,0,0,0,1,6.0,4.0,2.5,4.5,7.0
+Arts,Village 1,1.0,0,0,0,0,0,1,0,1,0,0,0,0,0,1.5,4.0,3.5,4.5,5.0
+Science,Mackenzie King Village (MKV),1.0,0,0,1,0,0,0,0,0,0,0,0,0,1,7.0,4.5,4.5,4.0,5.5
+Arts,Mackenzie King Village (MKV),2.0,0,0,1,0,0,0,0,1,0,0,0,0,0,6.0,4.0,5.5,3.5,6.5

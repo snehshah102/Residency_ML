@@ -1,0 +1,377 @@
+Timestamp,University Program Faculty?,Which residence did you stay at?,"What rating would you give the residence you lived at, based on your experience? (Worst: 1, Best: 10). ",I see myself as extraverted and enthusiastic,I see myself as critical and quarrelsome.,I see myself as dependable and self-disciplined.,I see myself as anxious and easily upset,I see myself as open to new experiences.,I see myself as reserved and quiet.,I see myself as sympathetic and warm.,I see myself as disorganized and careless.,I see myself as calm and emotionally stable.,I see myself as conventional and uncreative.
+12/02/2024 14:18:44,Engineering,UW Place (UWP),7,6,3,6,4,5,3,3,2,4,2
+12/02/2024 14:19:00,Engineering,Ron Eydt Village (REV),10,7,7,6,5,5,1,7,2,4,2
+12/02/2024 14:19:59,Engineering,Ron Eydt Village (REV),10,5,5,6,3,7,4,7,2,7,5
+12/02/2024 14:23:48,Engineering,Ron Eydt Village (REV),6,4,3,5,2,4,4,6,6,5,5
+12/02/2024 14:25:31,Engineering,Village 1,6,6,4,2,5,7,4,6,7,5,2
+12/02/2024 14:27:03,Mathematics,Village 1,9,5,1,5,1,4,3,4,1,5,4
+12/02/2024 14:30:32,Mathematics,Ron Eydt Village (REV),8,6,4,5,4,6,2,5,3,5,4
+12/02/2024 14:31:09,Mathematics,UW Place (UWP),7,5,2,7,1,5,6,7,2,6,2
+12/02/2024 14:33:12,Engineering,Village 1,10,4,2,6,3,6,5,6,1,7,2
+12/02/2024 14:33:59,Engineering,UW Place (UWP),7,3,4,5,6,5,5,5,2,4,5
+12/02/2024 14:34:01,Engineering,Ron Eydt Village (REV),4,2,5,7,2,4,7,4,1,6,3
+12/02/2024 14:34:45,Engineering,UW Place (UWP),6,6,6,6,2,5,3,5,2,5,3
+12/02/2024 14:40:34,Mathematics,Ron Eydt Village (REV),7,3,2,6,6,6,5,4,1,5,4
+12/02/2024 14:52:54,Mathematics,UW Place (UWP),5,2,6,6,3,6,7,3,4,6,4
+12/02/2024 14:56:13,Mathematics,UW Place (UWP),7,2,3,4,3,4,5,3,4,4,2
+12/02/2024 14:56:22,Environment,UW Place (UWP),7,4,1,3,6,3,3,6,4,3,3
+12/02/2024 14:58:52,Mathematics,UW Place (UWP),7,5,4,4,5,5,4,4,6,5,5
+12/02/2024 15:08:25,Mathematics,Village 1,8,1,1,6,5,5,7,6,2,5,5
+12/02/2024 15:21:16,Engineering,UW Place (UWP),8,3,1,4,2,4,6,6,4,6,2
+12/02/2024 15:23:07,Mathematics,Village 1,2,1,5,7,1,4,3,3,1,7,2
+12/02/2024 15:23:13,Mathematics,Ron Eydt Village (REV),5,2,3,5,4,5,6,5,5,4,6
+12/02/2024 15:26:00,Engineering,Mackenzie King Village (MKV),7,3,1,6,2,6,6,6,3,6,5
+12/02/2024 15:29:53,Engineering,UW Place (UWP),5,4,4,5,5,5,6,6,4,6,4
+12/02/2024 15:34:35,Health,Village 1,7,6,4,6,3,6,3,5,1,4,2
+12/02/2024 15:36:53,Health,Ron Eydt Village (REV),7,4,5,6,3,5,4,5,1,5,3
+12/02/2024 15:42:42,Engineering,im a rare offcampus first year who commuted in 1h everyday because family poor,,3,3,6,6,4,5,6,5,5,4
+12/02/2024 15:46:40,Arts,Ron Eydt Village (REV),8,6,3,5,4,6,2,7,2,4,2
+12/02/2024 16:03:32,Engineering,UW Place (UWP),8,2,1,4,2,2,7,1,5,5,5
+12/02/2024 16:04:23,Mathematics,Village 1,7,6,3,6,2,7,2,5,1,6,4
+12/02/2024 16:10:08,Mathematics,UW Place (UWP),8,3,4,5,2,6,4,2,4,7,7
+12/02/2024 16:10:23,Health,Village 1,8,4,5,5,2,6,5,6,5,6,1
+12/02/2024 16:25:14,Engineering,UW Place (UWP),8,2,5,4,3,3,5,6,2,6,4
+12/02/2024 16:30:03,Mathematics,Village 1,8,4,2,3,2,3,4,4,5,7,4
+12/02/2024 16:31:15,Engineering,UW Place (UWP),3,5,2,7,5,7,7,6,6,7,2
+12/02/2024 16:36:00,Engineering,Claudette Millar Hall (CMH),8,6,5,7,5,4,5,6,1,6,3
+12/02/2024 16:38:59,Engineering,Ron Eydt Village (REV),6,5,1,6,2,7,5,6,2,6,3
+12/02/2024 16:43:41,Engineering,Village 1,8,2,2,6,4,6,3,6,2,4,4
+12/02/2024 16:44:20,Engineering,Claudette Millar Hall (CMH),8,1,5,3,6,3,7,3,5,5,5
+12/02/2024 16:46:40,Mathematics,Mackenzie King Village (MKV),8,1,1,7,1,3,7,5,2,7,1
+12/02/2024 16:50:14,Mathematics,Ron Eydt Village (REV),8,3,3,2,3,5,3,3,7,4,5
+12/02/2024 16:58:37,Mathematics,Mackenzie King Village (MKV),8,6,3,5,3,5,3,5,2,5,4
+12/02/2024 17:00:46,Mathematics,Mackenzie King Village (MKV),7,2,5,6,3,3,6,3,1,5,5
+12/02/2024 17:02:16,Mathematics,Village 1,7,7,5,6,3,5,3,5,2,7,6
+12/02/2024 17:07:56,Arts,St Pauls (now united college),6,6,3,6,3,6,1,5,1,4,3
+12/02/2024 17:14:44,Engineering,Claudette Millar Hall (CMH),8,2,2,5,3,6,7,3,1,4,5
+12/02/2024 17:16:25,Mathematics,Claudette Millar Hall (CMH),8,3,4,6,2,4,6,6,2,3,6
+12/02/2024 17:23:51,Engineering,UW Place (UWP),6,,,,,,,,,,
+12/02/2024 17:37:09,Mathematics,Village 1,3,2,3,3,5,3,6,6,5,5,4
+12/02/2024 17:40:07,,,,,,,,,,,,,
+12/02/2024 17:40:57,Mathematics,UW Place (UWP),9,4,2,6,5,3,5,6,2,6,2
+12/02/2024 17:44:19,Engineering,Renison,9,5,3,4,3,7,3,3,4,5,4
+12/02/2024 17:47:30,math / arts joint ,st jeromes,6,6,5,3,3,6,2,5,6,3,2
+12/02/2024 17:53:58,Mathematics,UW Place (UWP),10,7,7,7,1,7,1,7,3,3,3
+12/02/2024 17:57:34,Mathematics,Village 1,4,2,6,3,3,5,4,6,5,5,6
+12/02/2024 17:59:39,Science,Ron Eydt Village (REV),4,2,3,4,5,3,6,4,3,6,5
+12/02/2024 18:03:37,Mathematics,Ron Eydt Village (REV),8,6,4,3,5,6,3,6,5,3,5
+12/02/2024 18:10:43,Engineering,Off campus,8,5,5,7,2,7,3,5,1,6,2
+12/02/2024 18:11:13,Mathematics,UW Place (UWP),8,3,2,6,2,6,5,5,2,6,5
+12/02/2024 18:12:10,Science,Village 1,3,3,6,6,6,4,6,3,2,4,4
+12/02/2024 18:15:18,Environment,United college,4,1,7,4,7,7,7,7,4,4,1
+12/02/2024 18:17:51,Engineering,Mackenzie King Village (MKV),7,3,2,5,6,6,4,7,2,2,7
+12/02/2024 18:22:19,Science,United College,7,4,2,4,6,5,5,5,2,3,2
+12/02/2024 18:26:43,Arts,Ron Eydt Village (REV),5,5,6,5,6,6,2,5,3,2,1
+12/02/2024 18:41:56,Engineering,Village 1,7,3,3,6,1,3,4,2,2,5,4
+12/02/2024 18:42:56,Engineering,Claudette Millar Hall (CMH),9,1,3,2,1,6,6,4,6,6,2
+12/02/2024 18:54:34,Health,Mackenzie King Village (MKV),8,5,3,1,5,6,5,6,5,3,2
+12/02/2024 19:16:22,Engineering,Village 1,10,4,2,6,3,6,5,6,1,7,2
+12/02/2024 19:19:47,Engineering,Mackenzie King Village (MKV),7,6,2,6,5,7,5,7,1,2,1
+12/02/2024 19:27:38,Arts,Village 1,8,3,4,7,6,5,5,5,2,3,7
+12/02/2024 19:29:59,Engineering,Village 1,7,2,3,7,4,3,6,7,1,5,6
+12/02/2024 19:50:49,Arts,UW Place (UWP),6,3,6,5,7,2,5,6,1,2,5
+12/02/2024 20:01:53,Arts,Village 1,8,2,3,4,6,5,7,5,5,7,4
+12/02/2024 20:20:38,Engineering,UW Place (UWP),10,4,5,5,3,4,5,5,3,4,5
+12/02/2024 20:38:07,Engineering,Ron Eydt Village (REV),3,7,6,6,2,7,1,4,2,6,7
+12/02/2024 20:50:06,Engineering,United College,7,2,3,2,3,5,6,4,3,5,3
+12/02/2024 20:54:33,Engineering,Claudette Millar Hall (CMH),9,6,4,3,2,7,2,5,3,6,3
+12/02/2024 21:02:30,Engineering,UW Place (UWP),6,6,3,6,2,7,2,4,4,5,4
+12/02/2024 21:04:54,Arts,Village 1,4,1,2,6,4,6,4,6,2,5,4
+12/02/2024 21:15:35,Mathematics,UW Place (UWP),8,2,4,5,2,7,,5,4,4,2
+12/02/2024 21:21:02,Science,Ron Eydt Village (REV),6,4,4,6,3,5,6,6,2,3,2
+12/02/2024 21:23:29,Mathematics,Off Campus ,6,3,2,5,5,4,7,4,1,7,4
+12/02/2024 21:29:07,Engineering,Mackenzie King Village (MKV),8,2,6,5,7,6,6,3,5,2,2
+12/02/2024 21:31:03,Engineering,Ron Eydt Village (REV),5,5,3,6,2,6,2,5,2,7,4
+12/02/2024 21:53:13,Engineering,Claudette Millar Hall (CMH),3,1,2,7,7,4,7,4,2,1,3
+12/02/2024 22:00:33,Mathematics,Ron Eydt Village (REV),8,7,4,6,5,7,2,6,2,6,4
+12/02/2024 22:11:20,Engineering,Village 1,5,3,2,4,2,5,5,3,5,5,4
+12/02/2024 22:16:08,Science,UW Place (UWP),5,2,4,2,2,4,6,4,4,5,6
+12/02/2024 22:18:40,Engineering,Ron Eydt Village (REV),7,3,4,5,3,4,5,4,2,5,3
+12/02/2024 22:31:55,Mathematics,UW Place (UWP),6,6,3,6,2,6,7,5,1,7,4
+12/02/2024 22:45:51,Engineering,Ron Eydt Village (REV),1,2,2,3,6,5,7,5,6,4,6
+12/02/2024 22:50:47,Mathematics,Grebel,9,4,3,6,2,7,6,3,1,4,5
+12/02/2024 23:26:09,Science,Ron Eydt Village (REV),5,4,2,7,7,5,6,3,3,3,4
+12/02/2024 23:35:56,Arts,Ron Eydt Village (REV),7,3,1,5,6,4,6,7,2,3,1
+12/02/2024 23:40:02,Science,Village 1,8,5,3,4,3,5,4,5,6,2,3
+12/02/2024 23:48:00,Mathematics,UW Place (UWP),5,4,2,4,2,5,5,6,4,6,3
+12/02/2024 23:57:54,Engineering,UW Place (UWP),8,4,2,7,3,7,4,5,1,5,3
+13/02/2024 00:43:46,Mathematics,Ron Eydt Village (REV),7,4,4,5,2,6,6,4,3,5,6
+13/02/2024 02:23:05,Engineering,Village 1,3,2,5,6,7,4,6,5,2,7,3
+13/02/2024 02:45:27,Mathematics,UW Place (UWP),7,4,5,6,2,6,5,7,,5,3
+13/02/2024 03:01:38,Mathematics,Columbia Lake Village South (CLV-South),7,5,5,6,2,6,4,4,3,6,4
+13/02/2024 03:31:43,Science,Claudette Millar Hall (CMH),10,5,2,2,2,6,3,7,5,6,2
+13/02/2024 03:36:42,Engineering,Claudette Millar Hall (CMH),8,5,4,6,1,4,2,2,3,5,5
+13/02/2024 07:49:31,Science,UW Place (UWP),5,7,4,4,7,1,2,5,4,1,2
+13/02/2024 07:50:54,Mathematics,Mackenzie King Village (MKV),9,6,4,5,3,3,2,5,3,5,5
+13/02/2024 09:39:49,Mathematics,UW Place (UWP),7,4,5,6,5,5,5,4,2,4,6
+13/02/2024 10:26:34,Science,Village 1,8,3,3,2,6,7,5,5,5,5,4
+13/02/2024 10:30:16,Arts,Village 1,1,1,1,1,1,1,1,1,1,1,1
+13/02/2024 10:55:25,Mathematics,Sju,8,4,5,6,5,5,4,4,4,4,4
+13/02/2024 10:59:49,Mathematics,Ron Eydt Village (REV),4,5,2,4,4,5,4,6,6,5,2
+13/02/2024 11:27:44,Engineering,Claudette Millar Hall (CMH),8,5,6,4,2,6,3,6,4,6,5
+13/02/2024 15:07:16,Mathematics,Village 1,10,3,2,5,6,5,7,4,6,6,3
+13/02/2024 19:56:35,Mathematics,Village 1,8,2,2,6,4,3,6,5,2,3,5
+13/02/2024 23:55:34,Mathematics,UW Place (UWP),9,3,3,5,3,5,5,5,4,3,3
+14/02/2024 02:50:24,Engineering,UW Place (UWP),4,4,3,4,2,6,4,5,5,4,3
+14/02/2024 15:45:37,Mathematics,UW Place (UWP),7,4,2,4,5,5,6,6,5,4,3
+14/02/2024 17:15:24,Arts,United College,6,4,1,5,5,6,6,6,4,4,3
+14/02/2024 20:32:45,Engineering,Claudette Millar Hall (CMH),8,4,4,5,2,6,5,6,3,5,2
+15/02/2024 02:26:11,Science,UW Place (UWP),6,5,1,6,2,6,3,6,1,3,1
+21/02/2024 15:40:10,Engineering,UW Place (UWP),7,5,6,5,4,5,5,5,6,5,4
+14/03/2024 12:53:22,Arts,Village 1,3,6,6,7,4,6,4,5,3,5,2
+14/03/2024 12:54:22,Health,Village 1,2,7,7,7,5,6,2,6,1,7,1
+14/03/2024 12:56:18,Mathematics,Village 1,5,4,6,5,2,5,4,2,3,3,3
+14/03/2024 13:05:46,Engineering,Village 1,4,5,5,6,4,6,3,3,3,3,3
+14/03/2024 13:22:51,Arts,Village 1,1,3,5,4,4,3,5,3,4,4,5
+14/03/2024 13:23:47,Engineering,Village 1,2,2,6,3,5,2,6,2,5,3,6
+14/03/2024 13:24:58,Environment,Village 1,3,1,7,4,4,1,6,2,4,4,6
+14/03/2024 13:25:51,Arts,Village 1,8,6,6,4,4,6,3,3,4,4,3
+14/03/2024 13:26:22,Environment,Village 1,2,2,6,3,3,5,3,4,5,3,6
+14/03/2024 13:27:03,Health,Village 1,4,2,6,4,4,3,5,3,5,3,6
+14/03/2024 13:27:31,Engineering,Village 1,9,5,5,5,5,5,3,3,5,5,3
+14/03/2024 13:27:42,Mathematics,Village 1,4,3,5,4,4,3,6,2,4,4,5
+14/03/2024 13:28:29,Mathematics,Village 1,3,2,6,4,3,2,5,3,5,4,7
+14/03/2024 13:28:35,Environment,Village 1,10,7,7,3,3,6,3,3,3,4,1
+14/03/2024 13:29:24,Health,Village 1,10,6,7,4,4,6,3,3,4,4,2
+14/03/2024 13:29:25,Science,Village 1,4,2,6,4,5,3,5,3,4,4,5
+14/03/2024 13:30:12,AFM,Village 1,3,3,5,4,4,3,5,3,3,3,6
+14/03/2024 13:31:09,Arts,Village 1,4,2,5,4,4,3,5,3,4,5,6
+14/03/2024 13:31:12,Mathematics,Village 1,7,6,6,5,4,6,1,1,3,4,1
+14/03/2024 13:32:19,Science,Village 1,8,7,6,4,4,5,3,3,4,4,2
+14/03/2024 13:33:41,Environment,Village 1,4,3,5,4,4,2,3,5,3,,5
+14/03/2024 13:34:18,Health,Village 1,4,2,5,4,4,3,5,3,4,4,6
+14/03/2024 13:34:24,Arts,Village 1,8,6,6,4,4,6,3,3,4,4,3
+14/03/2024 13:34:46,Arts,Village 1,7,6,6,3,3,6,2,2,4,4,2
+14/03/2024 13:34:56,Science,Village 1,3,3,5,3,4,3,5,2,4,4,6
+14/03/2024 13:35:23,Science,,4,3,6,4,4,2,5,3,4,4,6
+14/03/2024 13:35:44,Environment,Village 1,9,7,6,5,4,5,3,2,3,4,3
+14/03/2024 13:35:53,Arts,Village 1,1,2,6,4,3,2,6,3,4,4,7
+14/03/2024 13:36:17,Environment,Village 1,7,6,6,4,4,6,2,2,4,4,2
+14/03/2024 13:36:19,Engineering,Village 1,4,3,6,4,4,3,6,3,5,3,7
+14/03/2024 13:36:34,Health,Village 1,10,6,6,5,3,6,1,2,4,3,3
+14/03/2024 13:36:47,Environment,Village 1,2,2,5,4,4,,3,6,3,4,4
+14/03/2024 13:36:49,Health,Ron Eydt Village (REV),7,6,6,3,4,5,3,3,4,4,3
+14/03/2024 13:37:21,Science,Ron Eydt Village (REV),9,6,7,4,4,6,2,2,4,4,2
+14/03/2024 13:37:29,Science,Village 1,9,6,7,4,4,6,3,3,4,4,1
+14/03/2024 13:37:48,Health,Village 1,2,1,7,4,4,1,7,1,4,4,7
+14/03/2024 13:37:49,Arts,Ron Eydt Village (REV),8,6,6,4,4,7,1,1,4,4,1
+14/03/2024 13:38:21,Environment,Ron Eydt Village (REV),10,7,7,4,4,7,1,1,4,4,2
+14/03/2024 13:38:27,Mathematics,Village 1,4,2,5,4,4,3,6,2,4,5,6
+14/03/2024 13:39:06,Science,Village 1,3,2,6,4,3,5,3,3,5,4,7
+14/03/2024 13:39:11,Health,Ron Eydt Village (REV),8,5,5,4,4,6,2,1,4,4,2
+14/03/2024 13:39:56,Science,Ron Eydt Village (REV),8,6,6,3,5,7,1,2,4,4,2
+14/03/2024 13:40:27,Science,Village 1,3,3,5,4,4,2,6,3,4,4,6
+14/03/2024 13:41:00,Arts,Village 1,8,7,6,5,4,6,3,3,4,4,2
+14/03/2024 13:41:12,Health,Ron Eydt Village (REV),9,7,7,4,4,7,2,1,4,5,2
+14/03/2024 13:41:53,Science,Ron Eydt Village (REV),7,6,6,4,4,6,2,1,4,4,2
+14/03/2024 13:42:40,Mathematics,,4,2,5,4,4,3,6,3,4,4,6
+14/03/2024 13:42:45,Arts,Ron Eydt Village (REV),10,7,7,4,4,6,3,3,5,4,2
+14/03/2024 13:43:04,Environment,Village 1,3,3,6,4,4,3,6,3,4,4,6
+14/03/2024 13:45:48,Arts,Village 1,4,2,6,4,4,2,6,3,4,5,7
+14/03/2024 13:46:21,Environment,Village 1,9,7,6,4,4,5,6,3,3,4,4
+14/03/2024 13:47:11,Arts,Ron Eydt Village (REV),8,7,2,3,4,6,1,6,5,4,2
+14/03/2024 13:47:24,Health,Village 1,7,6,6,3,3,7,3,3,4,4,3
+14/03/2024 13:48:18,Science,Village 1,10,7,7,4,4,6,3,3,4,4,2
+14/03/2024 13:48:20,Environment,Ron Eydt Village (REV),8,7,2,3,4,6,2,6,5,4,2
+14/03/2024 13:49:22,Environment,Ron Eydt Village (REV),10,7,1,1,4,6,5,7,5,4,2
+14/03/2024 13:50:23,Arts,Village 1,9,6,7,4,4,6,3,3,4,4,2
+14/03/2024 13:50:30,Science,Ron Eydt Village (REV),8,6,1,3,4,6,1,7,5,4,2
+14/03/2024 13:51:15,Arts,Ron Eydt Village (REV),4,6,2,4,4,5,2,6,5,4,3
+14/03/2024 13:51:18,Science,Ron Eydt Village (REV),10,7,1,3,4,6,1,6,5,4,2
+14/03/2024 13:51:41,Engineering,Claudette Millar Hall (CMH),7,5,3,5,4,4,3,5,3,4,4
+14/03/2024 13:51:49,Engineering,Ron Eydt Village (REV),3,6,3,4,5,1,6,5,4,4,2
+14/03/2024 13:52:36,Arts,Ron Eydt Village (REV),9,7,2,1,4,6,2,6,5,4,1
+14/03/2024 13:52:45,Engineering,Claudette Millar Hall (CMH),8,6,3,6,4,5,3,6,2,4,3
+14/03/2024 13:53:02,Environment,Ron Eydt Village (REV),3,7,1,4,4,5,2,6,4,4,3
+14/03/2024 13:53:07,Environment,Ron Eydt Village (REV),10,7,1,2,4,5,2,7,5,4,2
+14/03/2024 13:53:46,Engineering,Claudette Millar Hall (CMH),9,7,1,5,4,3,2,6,3,4,4
+14/03/2024 13:53:55,Health,Ron Eydt Village (REV),3,6,2,4,4,6,2,6,4,4,3
+14/03/2024 13:54:00,Health,Ron Eydt Village (REV),8,6,2,3,4,6,2,6,6,4,2
+14/03/2024 13:54:34,Mathematics,Ron Eydt Village (REV),3,6,2,4,4,6,2,7,5,3,2
+14/03/2024 13:54:50,Science,Ron Eydt Village (REV),10,7,1,3,4,6,2,6,5,2,1
+14/03/2024 13:54:56,Engineering,Claudette Millar Hall (CMH),10,6,3,5,4,4,3,5,2,4,4
+14/03/2024 13:55:24,Arts,Ron Eydt Village (REV),9,6,1,3,4,6,1,6,6,4,2
+14/03/2024 13:55:41,Mathematics,Ron Eydt Village (REV),4,6,2,4,4,5,2,6,5,4,2
+14/03/2024 13:56:05,Arts,Ron Eydt Village (REV),10,7,1,2,3,4,6,2,6,4,2
+14/03/2024 13:56:27,Mathematics,Ron Eydt Village (REV),3,6,2,4,4,5,2,7,5,4,2
+14/03/2024 13:56:48,Engineering,Claudette Millar Hall (CMH),7,5,3,5,4,4,3,5,3,4,5
+14/03/2024 13:56:56,Engineering,Ron Eydt Village (REV),10,6,1,3,4,6,2,6,5,4,2
+14/03/2024 13:57:06,Science,Ron Eydt Village (REV),4,6,2,4,4,6,2,6,4,4,2
+14/03/2024 13:57:28,Mathematics,Ron Eydt Village (REV),9,7,1,3,4,6,2,6,6,3,2
+14/03/2024 13:57:55,Health,Ron Eydt Village (REV),9,7,1,3,4,6,1,6,5,4,2
+14/03/2024 13:57:58,Engineering,Claudette Millar Hall (CMH),8,7,3,5,4,3,3,5,3,4,5
+14/03/2024 13:58:16,AFM,Ron Eydt Village (REV),2,6,2,3,4,6,2,6,5,4,2
+14/03/2024 13:58:38,Mathematics,Ron Eydt Village (REV),7,6,2,3,4,6,2,6,5,4,2
+14/03/2024 13:58:46,Engineering,Claudette Millar Hall (CMH),9,6,3,5,4,5,3,6,3,4,5
+14/03/2024 13:59:27,Arts,Ron Eydt Village (REV),3,6,2,3,4,6,2,7,6,4,2
+14/03/2024 13:59:40,Engineering,Claudette Millar Hall (CMH),9,6,2,5,4,5,3,6,3,4,3
+14/03/2024 14:00:12,Health,Ron Eydt Village (REV),3,6,2,3,4,6,2,6,6,4,2
+14/03/2024 14:00:42,Mathematics,Ron Eydt Village (REV),,7,1,,3,4,6,2,6,5,4
+14/03/2024 14:00:52,Arts,Mackenzie King Village (MKV),8,4,2,6,4,4,4,6,2,4,4
+14/03/2024 14:00:56,Engineering,Claudette Millar Hall (CMH),7,6,3,5,4,4,2,5,3,4,3
+14/03/2024 14:01:24,Arts,Claudette Millar Hall (CMH),5,3,5,4,5,3,5,3,4,3,4
+14/03/2024 14:01:24,Engineering,Mackenzie King Village (MKV),4,2,6,4,4,4,6,2,4,4,4
+14/03/2024 14:01:26,Health,Ron Eydt Village (REV),3,6,2,1,4,6,2,6,6,4,2
+14/03/2024 14:01:50,Engineering,Claudette Millar Hall (CMH),8,5,3,5,5,5,3,7,3,5,5
+14/03/2024 14:01:55,Environment,Mackenzie King Village (MKV),9,4,2,6,4,4,4,6,2,4,4
+14/03/2024 14:02:07,Science,Ron Eydt Village (REV),3,6,2,3,4,6,2,6,6,4,2
+14/03/2024 14:02:23,Health,Mackenzie King Village (MKV),10,4,1,7,4,4,4,7,1,4,4
+14/03/2024 14:02:55,Engineering,Claudette Millar Hall (CMH),9,5,3,5,4,4,3,5,3,4,4
+14/03/2024 14:02:59,Mathematics,Mackenzie King Village (MKV),9,4,2,6,4,4,4,7,2,4,4
+14/03/2024 14:03:18,Health,Ron Eydt Village (REV),3,6,2,3,4,5,2,6,5,4,3
+14/03/2024 14:03:19,Environment,Claudette Millar Hall (CMH),4,2,6,4,4,5,3,3,4,2,6
+14/03/2024 14:03:29,Mathematics,Mackenzie King Village (MKV),9,4,2,6,4,4,4,6,2,4,4
+14/03/2024 14:03:43,Engineering,Claudette Millar Hall (CMH),9,6,1,6,3,4,3,5,2,4,4
+14/03/2024 14:04:15,Science,Ron Eydt Village (REV),4,6,2,2,4,6,2,6,4,4,3
+14/03/2024 14:04:24,Science,Mackenzie King Village (MKV),10,4,2,6,4,4,4,6,2,4,4
+14/03/2024 14:04:42,Environment,Claudette Millar Hall (CMH),1,1,7,4,7,1,7,1,4,1,4
+14/03/2024 14:04:47,Engineering,Claudette Millar Hall (CMH),10,5,3,5,4,4,3,5,3,4,4
+14/03/2024 14:04:48,Arts,Ron Eydt Village (REV),1,7,1,1,4,7,1,7,7,4,1
+14/03/2024 14:05:01,Mathematics,Mackenzie King Village (MKV),9,4,2,6,4,4,4,6,2,4,4
+14/03/2024 14:05:14,Arts,Claudette Millar Hall (CMH),1,1,7,4,7,1,7,1,4,1,4
+14/03/2024 14:05:39,Mathematics,Mackenzie King Village (MKV),10,6,2,6,4,4,7,2,4,4,7
+14/03/2024 14:05:42,Engineering,Ron Eydt Village (REV),3,6,2,4,4,5,2,6,6,4,3
+14/03/2024 14:05:45,Science,Claudette Millar Hall (CMH),1,1,7,4,7,1,7,1,4,1,4
+14/03/2024 14:05:52,Engineering,Claudette Millar Hall (CMH),8,7,1,5,4,5,3,5,2,4,4
+14/03/2024 14:06:11,Health,Claudette Millar Hall (CMH),2,2,6,4,6,2,6,2,4,2,4
+14/03/2024 14:06:19,Health,Ron Eydt Village (REV),2,6,2,3,4,6,2,6,6,4,3
+14/03/2024 14:06:42,Engineering,Claudette Millar Hall (CMH),8,6,3,5,4,4,3,5,3,4,4
+14/03/2024 14:06:46,Science,Claudette Millar Hall (CMH),2,1,6,4,6,2,6,2,4,2,4
+14/03/2024 14:06:52,Science,Mackenzie King Village (MKV),10,4,1,6,4,4,4,7,2,4,4
+14/03/2024 14:07:18,Environment,Ron Eydt Village (REV),3,6,2,4,4,6,6,7,6,4,2
+14/03/2024 14:07:25,Arts,Claudette Millar Hall (CMH),2,2,6,4,7,2,7,1,4,2,4
+14/03/2024 14:07:39,Mathematics,Mackenzie King Village (MKV),9,4,2,6,4,4,4,6,2,4,4
+14/03/2024 14:07:44,Engineering,Claudette Millar Hall (CMH),9,6,2,6,4,3,3,6,3,5,4
+14/03/2024 14:07:55,Engineering,Ron Eydt Village (REV),3,6,2,4,4,6,2,6,5,4,2
+14/03/2024 14:07:55,Arts,Claudette Millar Hall (CMH),2,2,6,4,7,2,6,1,4,2,4
+14/03/2024 14:08:41,Arts,Claudette Millar Hall (CMH),3,3,6,4,6,2,6,3,4,2,4
+14/03/2024 14:08:49,Engineering,Claudette Millar Hall (CMH),9,6,3,5,4,4,3,5,3,4,4
+14/03/2024 14:09:00,Science,Mackenzie King Village (MKV),10,4,2,6,4,3,5,7,1,4,3
+14/03/2024 14:09:09,Mathematics,Ron Eydt Village (REV),3,6,2,2,4,5,2,6,5,5,3
+14/03/2024 14:09:12,Health,Claudette Millar Hall (CMH),2,2,7,4,6,2,6,1,4,2,4
+14/03/2024 14:09:34,Health,Claudette Millar Hall (CMH),2,2,6,4,6,2,6,2,4,2,4
+14/03/2024 14:09:42,Engineering,Claudette Millar Hall (CMH),10,6,2,6,5,4,3,5,3,4,5
+14/03/2024 14:09:50,Science,Mackenzie King Village (MKV),9,4,3,6,4,4,3,4,6,2,6
+14/03/2024 14:09:54,AFM,Ron Eydt Village (REV),3,6,2,3,4,6,2,6,6,4,2
+14/03/2024 14:10:03,Health,Claudette Millar Hall (CMH),3,3,5,4,5,2,6,2,4,3,4
+14/03/2024 14:10:25,Arts,Ron Eydt Village (REV),4,7,2,3,4,5,2,6,5,4,2
+14/03/2024 14:10:26,Engineering,Claudette Millar Hall (CMH),9,7,1,5,4,4,2,6,2,5,5
+14/03/2024 14:10:31,Mathematics,Mackenzie King Village (MKV),10,3,2,5,4,4,4,6,2,4,4
+14/03/2024 14:10:31,Environment,Claudette Millar Hall (CMH),5,3,5,4,5,3,5,3,4,3,4
+14/03/2024 14:10:55,Science,Ron Eydt Village (REV),3,6,2,4,4,5,2,6,5,4,2
+14/03/2024 14:11:15,Engineering,Claudette Millar Hall (CMH),9,6,3,5,3,4,3,5,3,4,4
+14/03/2024 14:11:22,Mathematics,Ron Eydt Village (REV),3,6,2,4,4,6,2,7,,5,2
+14/03/2024 14:11:28,Mathematics,Mackenzie King Village (MKV),9,4,2,5,4,4,4,6,2,4,4
+14/03/2024 14:12:08,Arts,Claudette Millar Hall (CMH),4,3,6,4,6,2,6,2,4,3,4
+14/03/2024 14:12:14,Science,Mackenzie King Village (MKV),8,4,2,6,4,4,4,6,2,4,4
+14/03/2024 14:12:28,Science,Ron Eydt Village (REV),4,7,2,3,4,6,2,6,5,4,3
+14/03/2024 14:12:45,Arts,Claudette Millar Hall (CMH),4,3,6,4,6,2,6,2,4,2,4
+14/03/2024 14:12:52,Mathematics,Mackenzie King Village (MKV),10,4,2,6,4,4,4,6,2,4,4
+14/03/2024 14:13:09,Health,Ron Eydt Village (REV),2,7,2,3,4,,5,2,6,4,2
+14/03/2024 14:13:48,Science,Mackenzie King Village (MKV),10,4,3,5,4,4,4,7,2,5,3
+14/03/2024 14:14:11,Environment,Ron Eydt Village (REV),3,6,2,3,4,6,2,6,5,4,2
+14/03/2024 14:14:35,Mathematics,Ron Eydt Village (REV),3,6,2,3,4,6,2,6,5,4,1
+14/03/2024 14:14:36,Science,Mackenzie King Village (MKV),10,4,3,5,4,4,4,7,2,4,4
+14/03/2024 14:15:23,Science,Mackenzie King Village (MKV),10,5,1,7,4,4,4,6,2,4,4
+14/03/2024 14:15:59,Health,Ron Eydt Village (REV),4,6,2,3,4,7,2,6,6,4,2
+14/03/2024 14:16:12,Health,Claudette Millar Hall (CMH),2,3,5,4,5,2,6,2,4,3,4
+14/03/2024 14:16:38,Engineering,Ron Eydt Village (REV),3,6,2,4,4,6,2,7,6,4,2
+14/03/2024 14:16:38,Arts,Claudette Millar Hall (CMH),1,1,7,4,7,2,6,2,4,1,4
+14/03/2024 14:17:02,Environment,Claudette Millar Hall (CMH),2,1,6,4,7,2,6,1,4,2,4
+14/03/2024 14:17:33,Mathematics,Ron Eydt Village (REV),3,7,2,2,4,6,2,7,6,4,2
+14/03/2024 14:17:38,Science,Mackenzie King Village (MKV),10,4,2,6,4,4,5,7,2,4,4
+14/03/2024 14:18:04,Mathematics,Ron Eydt Village (REV),4,6,2,6,6,2,6,5,,5,2
+14/03/2024 14:18:19,Science,Claudette Millar Hall (CMH),2,2,6,4,6,2,6,1,4,2,4
+14/03/2024 14:18:35,Health,Ron Eydt Village (REV),4,6,2,3,4,7,2,6,6,4,3
+14/03/2024 14:18:45,Environment,Claudette Millar Hall (CMH),5,3,5,4,5,3,5,3,4,3,4
+14/03/2024 14:19:10,Arts,Claudette Millar Hall (CMH),5,3,5,4,5,3,5,3,4,3,4
+14/03/2024 14:19:14,Mathematics,Ron Eydt Village (REV),4,6,2,2,4,6,2,6,7,4,3
+14/03/2024 14:20:00,Engineering,Claudette Millar Hall (CMH),7,6,3,5,4,4,3,5,3,4,4
+14/03/2024 14:20:05,Science,Ron Eydt Village (REV),3,6,1,3,4,6,2,6,7,4,3
+14/03/2024 14:20:48,Health,Claudette Millar Hall (CMH),2,1,7,4,6,1,6,1,4,2,4
+14/03/2024 14:21:14,Mathematics,Claudette Millar Hall (CMH),1,1,7,4,7,1,7,1,4,1,4
+14/03/2024 14:21:36,,UW Place (UWP),7,4,2,4,4,6,4,5,4,4,2
+14/03/2024 14:22:24,Engineering,Ron Eydt Village (REV),9,3,2,4,4,6,4,6,3,5,2
+14/03/2024 14:23:29,Environment,UW Place (UWP),9,3,2,4,5,6,3,6,4,4,2
+14/03/2024 14:24:28,Engineering,Claudette Millar Hall (CMH),9,7,2,7,4,4,2,6,2,4,4
+14/03/2024 14:25:03,Health,UW Place (UWP),10,4,1,5,3,7,5,7,4,4,1
+14/03/2024 14:31:19,Engineering,Village 1,,6,2,6,5,5,2,6,2,3,4
+14/03/2024 14:36:04,Science,UW Place (UWP),9,4,2,4,4,6,4,6,4,4,3
+14/03/2024 14:37:52,Arts,UW Place (UWP),9,4,2,4,4,6,4,6,4,3,2
+14/03/2024 14:40:26,Arts,UW Place (UWP),10,4,2,4,5,6,4,6,4,4,2
+14/03/2024 14:41:04,Engineering,UW Place (UWP),9,4,2,4,4,6,3,5,4,3,2
+14/03/2024 14:42:03,Environment,UW Place (UWP),10,4,2,3,4,6,3,5,3,5,1
+14/03/2024 14:42:56,Engineering,Claudette Millar Hall (CMH),10,7,3,7,5,5,3,7,3,4,4
+14/03/2024 14:43:49,Health,UW Place (UWP),9,4,2,4,4,7,3,5,4,4,2
+14/03/2024 14:44:24,Engineering,Claudette Millar Hall (CMH),9,7,1,7,4,4,2,7,3,4,4
+14/03/2024 14:44:25,Mathematics,UW Place (UWP),10,4,2,4,5,7,4,7,3,5,2
+14/03/2024 14:45:47,AFM,UW Place (UWP),9,4,2,4,4,6,4,6,3,5,2
+14/03/2024 14:45:59,Engineering,Claudette Millar Hall (CMH),10,6,2,6,4,4,2,6,3,4,4
+14/03/2024 14:46:20,Arts,UW Place (UWP),8,3,2,,4,4,6,3,6,4,2
+14/03/2024 14:46:38,Arts,Mackenzie King Village (MKV),10,6,6,4,4,2,2,4,4,6,6
+14/03/2024 14:46:50,Engineering,Claudette Millar Hall (CMH),9,7,1,7,4,4,1,7,1,4,4
+14/03/2024 14:47:14,Science,UW Place (UWP),7,4,2,4,6,4,6,6,4,4,1
+14/03/2024 14:47:26,Engineering,Mackenzie King Village (MKV),2,7,7,4,4,2,2,2,4,4,6
+14/03/2024 14:47:47,Health,UW Place (UWP),9,4,2,4,5,7,4,6,3,5,1
+14/03/2024 14:47:51,Environment,Mackenzie King Village (MKV),2,6,6,4,4,2,2,3,4,4,7
+14/03/2024 14:47:51,Engineering,Claudette Millar Hall (CMH),10,6,2,6,5,3,2,6,2,3,5
+14/03/2024 14:48:08,,UW Place (UWP),8,4,2,2,5,4,5,3,3,6,3
+14/03/2024 14:48:29,Environment,Mackenzie King Village (MKV),2,6,7,4,4,2,2,3,4,4,6
+14/03/2024 14:48:56,Engineering,Claudette Millar Hall (CMH),10,7,3,7,4,4,3,7,3,4,4
+14/03/2024 14:49:05,Health,Mackenzie King Village (MKV),2,7,7,4,4,2,2,2,4,4,7
+14/03/2024 14:49:52,Health,Mackenzie King Village (MKV),2,6,6,4,4,2,2,3,4,4,6
+14/03/2024 14:49:52,Engineering,Claudette Millar Hall (CMH),9,6,1,6,4,4,2,6,2,4,5
+14/03/2024 14:50:36,Mathematics,Mackenzie King Village (MKV),1,7,7,4,4,2,2,3,4,4,7
+14/03/2024 14:51:11,Science,Mackenzie King Village (MKV),1,6,7,4,4,2,2,3,4,4,6
+14/03/2024 14:51:11,Science,UW Place (UWP),9,4,1,4,4,6,,7,5,3,2
+14/03/2024 14:51:41,Science,Mackenzie King Village (MKV),1,7,7,4,4,1,2,2,4,4,6
+14/03/2024 14:51:45,Science,UW Place (UWP),9,3,2,4,4,6,4,6,4,4,3
+14/03/2024 14:52:13,Science,Mackenzie King Village (MKV),3,6,7,4,4,2,2,2,4,4,7
+14/03/2024 14:52:17,Science,UW Place (UWP),9,4,3,4,5,6,4,7,3,3,2
+14/03/2024 14:52:50,Mathematics,UW Place (UWP),8,3,5,6,4,4,6,6,3,5,2
+14/03/2024 14:52:54,Engineering,Claudette Millar Hall (CMH),9,7,2,6,3,5,5,2,5,5,4
+14/03/2024 14:53:00,Science,Mackenzie King Village (MKV),2,6,6,4,4,2,2,4,4,6,4
+14/03/2024 14:53:30,Science,Mackenzie King Village (MKV),2,7,7,4,4,2,2,4,4,6,6
+14/03/2024 14:53:36,Science,UW Place (UWP),4,4,6,4,4,2,4,2,3,4,5
+14/03/2024 14:53:55,Arts,Mackenzie King Village (MKV),1,7,7,4,4,2,2,2,4,4,6
+14/03/2024 14:54:07,Environment,UW Place (UWP),3,3,6,5,4,2,4,2,4,5,6
+14/03/2024 14:54:09,Engineering,UW Place (UWP),4,4,6,4,4,3,4,2,4,4,5
+14/03/2024 14:54:27,Engineering,Mackenzie King Village (MKV),1,6,7,4,4,2,2,2,4,4,7
+14/03/2024 14:54:53,Environment,UW Place (UWP),3,3,7,3,3,2,4,2,4,4,6
+14/03/2024 14:54:59,Health,Mackenzie King Village (MKV),2,6,6,4,4,2,2,3,4,4,6
+14/03/2024 14:56:13,,Mackenzie King Village (MKV),3,7,7,4,4,2,2,3,4,4,7
+14/03/2024 14:56:26,Arts,UW Place (UWP),2,4,7,5,4,3,4,1,4,4,6
+14/03/2024 14:56:56,Health,Mackenzie King Village (MKV),2,6,6,4,4,3,3,3,4,4,7
+14/03/2024 14:56:57,Mathematics,UW Place (UWP),3,4,6,4,3,2,4,2,3,5,6
+14/03/2024 14:57:13,Health,UW Place (UWP),1,5,7,4,4,2,4,2,4,4,6
+14/03/2024 14:57:27,Science,Mackenzie King Village (MKV),2,6,6,4,4,,2,2,3,4,5
+14/03/2024 14:58:00,Health,Mackenzie King Village (MKV),1,6,6,4,4,2,3,3,4,4,6
+14/03/2024 14:58:14,Engineering,UW Place (UWP),3,5,7,4,4,3,4,2,4,4,6
+14/03/2024 14:58:16,Science,UW Place (UWP),3,3,6,4,4,6,4,6,3,5,1
+14/03/2024 14:58:36,Arts,Mackenzie King Village (MKV),3,7,7,3,4,3,2,2,4,4,6
+14/03/2024 14:58:58,Science,UW Place (UWP),2,3,7,3,5,2,5,1,4,4,7
+14/03/2024 14:59:03,Engineering,UW Place (UWP),4,5,6,3,4,2,4,2,4,4,6
+14/03/2024 14:59:28,Health,UW Place (UWP),2,3,6,4,2,5,4,5,3,5,6
+14/03/2024 14:59:38,Engineering,UW Place (UWP),3,4,6,4,4,3,4,2,4,4,6
+14/03/2024 15:00:05,Mathematics,UW Place (UWP),1,4,7,4,4,1,4,1,4,4,7
+14/03/2024 15:00:36,Environment,UW Place (UWP),2,3,7,4,3,3,4,2,4,4,6
+14/03/2024 15:00:36,,UW Place (UWP),1,3,7,5,4,1,4,1,4,4,7
+14/03/2024 15:01:26,Arts,UW Place (UWP),2,4,7,4,4,2,4,2,4,4,6
+14/03/2024 15:01:45,Arts,UW Place (UWP),1,5,7,5,4,4,2,4,2,4,4
+14/03/2024 15:02:36,Engineering,UW Place (UWP),1,4,7,5,4,2,4,2,4,5,6
+14/03/2024 15:03:18,Environment,Claudette Millar Hall (CMH),3,6,6,4,4,3,4,2,4,4,5
+14/03/2024 15:04:12,Engineering,UW Place (UWP),2,5,6,4,4,2,4,2,4,4,6
+14/03/2024 15:04:57,Arts,UW Place (UWP),1,5,7,4,4,3,4,1,5,5,7
+14/03/2024 15:05:58,Engineering,UW Place (UWP),2,3,7,4,4,3,4,2,4,4,7
+14/03/2024 15:06:27,Health,UW Place (UWP),3,4,6,4,3,2,4,1,4,4,6
+14/03/2024 15:06:51,Science,UW Place (UWP),1,4,7,5,5,3,3,2,4,4,6
+13/02/2024 11:27:44,Arts,Village 1,2,6,5,4,6,7,6,6,8,7,5
+13/02/2024 15:07:16,Arts,Mackenzie King Village (MKV),8,4,6,4,6,7,6,5,5,6,2
+13/02/2024 19:56:35,Arts,Mackenzie King Village (MKV),9,3,6,5,5,6,6,4,4,5,1
+13/02/2024 23:55:34,Science,Mackenzie King Village (MKV),5,3,5,4,6,5,6,5,3,7,4
+14/02/2024 02:50:24,Mathematics,Village 1,3,3,4,5,5,7,6,5,7,6,7
+14/02/2024 15:45:37,Arts,Mackenzie King Village (MKV),1,6,6,4,3,7,2,7,4,4,2
+14/02/2024 17:15:24,Science,Mackenzie King Village (MKV),3,7,7,4,5,7,3,7,7,6,1
+14/02/2024 20:32:45,Arts,Village 1,1,2,5,4,5,7,7,5,5,6,5
+15/02/2024 02:26:11,Science,Mackenzie King Village (MKV),1,7,3,5,4,5,1,4,4,4,2
+21/02/2024 15:40:10,Arts,Mackenzie King Village (MKV),2,6,4,6,4,6,2,4,3,3,1

@@ -1,12 +1,12 @@
 # University Residency Recommendation System
 
-## This project aims to recommend the residency that best suits students at the university based on their survey responses. The recommendation system utilizes various machine learning algorithms to analyze survey data and suggest the most suitable residency option for each student.
+This project aims to recommend the residency that best suits students at the university based on their survey responses. The recommendation system utilizes various machine learning algorithms to analyze survey data and suggest the most suitable residency option for each student.
 
 # Dataset
-## The dataset used in this project is surveyResponses.csv, which contains the survey responses of students. Additionally, parsedSurveyData.csv is created as a preprocessed version of the survey data to facilitate the analysis.
+The dataset used in this project is surveyResponses.csv, which contains the survey responses of students. Additionally, parsedSurveyData.csv is created as a preprocessed version of the survey data to facilitate the analysis.
 
-#Methods and Libraries
-## The project explores different machine learning methods and libraries to determine the most effective model for residency recommendation. The following methods and libraries are utilized:
+# Methods and Libraries
+The project explores different machine learning methods and libraries to determine the most effective model for residency recommendation. The following methods and libraries are utilized:
 
 **Decision Trees:** Each node in the tree represents a choice based on student characteristics, leading to a leaf that designates their best-fit residence.  <br />
 **Linear Regression:** Ridge is used to shrink personality coefficients to near zero, reduce overfitting, but does not perform feature selection so forward selection methods were used with cross validation.  <br />

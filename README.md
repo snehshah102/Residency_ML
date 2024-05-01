@@ -13,5 +13,5 @@
 **Logistic Regression:** Returns probability for each class, allowing clear understanding of likelihood of features given to a student.  <br />
 **Neural Network:** Complex non-linear relationships between personality traits can be determined through a neural network.  <br />
 **Support Vector Machines (SVM):** The SVM's hyperplane acts as a decision boundary to segregate students into distinct residence categories based on their profiles.  <br />
-**K-Means Clustering + K-nearest Neighbor:** It then looks at all residences that each user in a specific group has been too, assigns that entire cluster as a “user”, to create a user-residence matrix, where a row is a user cluster, and the columns are the ratings of what residences the users in that cluster have rated
+**K-Means Clustering + K-nearest Neighbor:** It then looks at all residences that each user in a specific group has been too, assigns that entire cluster as a “user”, to create a user-residence matrix, where a row is a user cluster, and the columns are the ratings of what residences the users in that cluster have rated. 
 

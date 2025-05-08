@@ -15,3 +15,7 @@ The project explores different machine learning methods and libraries to determi
 **Support Vector Machines (SVM):** The SVM's hyperplane acts as a decision boundary to segregate students into distinct residence categories based on their profiles.  <br />
 **K-Means Clustering + K-nearest Neighbor:** It then looks at all residences that each user in a specific group has been too, assigns that entire cluster as a “user”, to create a user-residence matrix, where a row is a user cluster, and the columns are the ratings of what residences the users in that cluster have rated. 
 
+
+By: Sneh, Ben, Sher, and Shailleze
+
+Presentation: https://docs.google.com/presentation/d/1nDgpNrZwOl35--tjuxm0ywR6OkhNQ-3UBR4bYnW80C4/edit?usp=sharing 
